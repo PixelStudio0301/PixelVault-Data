@@ -7,7 +7,7 @@ storage: "7"
 
 # cover images for the carousel
 coverImages:
-  - equipment/audio_rode_wireless_go_cover.avif
+  - images/equipment/audio_rode_wireless_go_cover.avif
 
 # high‑level description
 description: |
@@ -24,7 +24,7 @@ sections:
 
   - title: Transmitter (TX) Setup
     images:
-      - equipment/audio_rode_wireless_go_setup.avif
+      - images/equipment/audio_rode_wireless_go_setup.avif
 
     body: |
       **Internal Mic**
@@ -35,7 +35,7 @@ sections:
 
   - title: Receiver (RX) Setup
     images:
-      - equipment/audio_rode_wireless_go_setup.avif
+      - images/equipment/audio_rode_wireless_go_setup.avif
     body: |
       **Connecting to Camera/Recorder**
       • Use the **CL 500** cable (3.5mm to XLR) for professional cameras or recorders like the Zoom F8.
@@ -70,7 +70,7 @@ storage: "7"
 
 # cover images for the carousel
 coverImages:
-  - equipment/audio_sennheiser_g4_cover.avif
+  - images/equipment/audio_sennheiser_g4_cover.avif
 
 # high‑level description
 description: |
@@ -80,7 +80,7 @@ description: |
 sections:
   - title: Installing Batteries
     images:
-      - equipment/audio_sennheiser_g4_front.avif
+      - images/equipment/audio_sennheiser_g4_front.avif
     body: |
       • Press the two catches on the sides of the receiver/transmitter to open the battery compartment cover.
       • Insert 2 AA batteries.
@@ -88,7 +88,7 @@ sections:
 
   - title: Connecting to Camera/Recorder
     images:
-      - equipment/audio_sennheiser_g4_top.avif
+      - images/equipment/audio_sennheiser_g4_top.avif
     body: |
       **Receiver Output:**
       • Connect the **AF Out** jack (3.5mm) on top of the receiver to your camera or recorder.
@@ -98,7 +98,7 @@ sections:
 
   - title: Frequency Scan & Sync
     images:
-      - equipment/audio_sennheiser_g4_front.avif
+      - images/equipment/audio_sennheiser_g4_front.avif
     body: |
       1. **Scan on Receiver:**
          • Press **SET** to enter the menu.
@@ -113,7 +113,7 @@ sections:
 
   - title: Setting Levels (Sensitivity & Output)
     images:
-      - equipment/audio_sennheiser_g4_front.avif
+      - images/equipment/audio_sennheiser_g4_front.avif
     body: |
       **Transmitter Sensitivity:**
       • Go to **Sensitivity** in the transmitter menu.
@@ -143,7 +143,7 @@ storage: "7"
 
 # cover images for the carousel
 coverImages:
-  - equipment/audio_zoom_f8_cover.avif
+  - images/equipment/audio_zoom_f8_cover.avif
 
 # high‑level description
 description: |
@@ -153,9 +153,9 @@ description: |
 sections:
   - title: Installing Batteries
     images:
-      - equipment/audio_zoom_f8_battery1.avif
-      - equipment/audio_zoom_f8_battery2.avif
-      - equipment/audio_zoom_f8_battery3.avif
+      - images/equipment/audio_zoom_f8_battery1.avif
+      - images/equipment/audio_zoom_f8_battery2.avif
+      - images/equipment/audio_zoom_f8_battery3.avif
 
     body: |
       **Batteries (8x AA)**
@@ -168,7 +168,7 @@ sections:
 
   - title: Installing SD Cards
     images:
-      - equipment/audio_zoom_f8_memory.avif
+      - images/equipment/audio_zoom_f8_memory.avif
     body: |
       **SD Cards (Dual Slots):**
       • Open the media door on the left side of the unit.
@@ -177,7 +177,7 @@ sections:
 
   - title: Connecting Inputs
     images:
-      - equipment/audio_zoom_f8_input.avif
+      - images/equipment/audio_zoom_f8_input.avif
     body: |
       **XLR/TRS Inputs**
       • Connect microphones or line-level sources to Inputs 1-8 on the side panels.
@@ -191,7 +191,7 @@ sections:
 
   - title: Adjusting Levels
     images:
-      - equipment/audio_zoom_f8_settings.avif
+      - images/equipment/audio_zoom_f8_settings.avif
     body: |
       **Arming Tracks**
       • Press the track number buttons (1-8) corresponding to the connected inputs on the front panel.
@@ -207,7 +207,7 @@ sections:
 
   - title: Recording Controls
     images:
-      - equipment/audio_zoom_f8_settings.avif
+      - images/equipment/audio_zoom_f8_settings.avif
     body: |
       • **Start Recording:** Press the **REC** button (with red circle). The LED ring will glow red.
       • **Stop Recording:** Press the **STOP** button (square icon).
@@ -228,7 +228,7 @@ storage: "7"
 
 # cover images for the carousel
 coverImages:
-  - equipment/audio_zoom_podtrak_p4_cover.avif
+  - images/equipment/audio_zoom_podtrak_p4_cover.avif
 
 # high‑level description
 description: |
@@ -253,7 +253,7 @@ sections:
 
   - title: Installing SD Cards
     images:
-      - equipment/audio_zoom_podtrak_p4_memory.avif
+      - images/equipment/audio_zoom_podtrak_p4_memory.avif
     body: |
       • Locate the SD card slot on the left side of the unit.
       • Insert the SD card with the label facing up until it clicks into place.
@@ -263,7 +263,7 @@ sections:
 
   - title: Connecting Microphones
     images:
-      - equipment/audio_zoom_podtrak_p4_top.avif
+      - images/equipment/audio_zoom_podtrak_p4_top.avif
     body: |
       **XLR Inputs:**
       • Connect microphones to Inputs 1-4 on the top using XLR cables.
@@ -277,7 +277,7 @@ sections:
 
   - title: Setting Levels
     images:
-      - equipment/audio_zoom_podtrak_p4_front.avif
+      - images/equipment/audio_zoom_podtrak_p4_front.avif
     body: |
       **Input Gain (Trim):**
       • Turn the **Input Gain Knobs** (1-4) at the top for each connected microphone.
@@ -286,7 +286,7 @@ sections:
 
   - title: Recording & Sound Pads
     images:
-      - equipment/audio_zoom_podtrak_p4_setup.avif
+      - images/equipment/audio_zoom_podtrak_p4_setup.avif
     body: |
       **Recording:**
       • Press the **REC** button (red circle) to start recording. The button will light up red.
@@ -313,7 +313,7 @@ storage: "A"
 
 # cover images for the carousel
 coverImages:
-  - equipment/cam_canon_hfg70_cover.avif
+  - images/equipment/cam_canon_hfg70_cover.avif
 
 # high-level description shown in an "About" section
 description: |
@@ -323,7 +323,7 @@ description: |
 sections:
   - title: Power On, Modes, and Basic Recording
     images:
-      - equipment/cam_canon_hfg70_left.avif
+      - images/equipment/cam_canon_hfg70_left.avif
     body: |
       **Power switch (CAMERA / MEDIA / OFF)**
       • Set the power switch to **CAMERA** to record.
@@ -339,7 +339,7 @@ sections:
 
   - title: Battery and Charging
     images:
-      - equipment/cam_canon_hfg70_back.avif
+      - images/equipment/cam_canon_hfg70_back.avif
     body: |
       **Compatible batteries**
       • Use Canon **BP-820** or **BP-828** battery packs.
@@ -352,7 +352,7 @@ sections:
 
   - title: SD Cards
     images:
-      - equipment/cam_canon_hfg70_left.avif
+      - images/equipment/cam_canon_hfg70_left.avif
     body: |
       **Insert SD cards (dual slots)**
       • Open the card slot cover and insert an SD card into **SD card A** and/or **SD card B**.
@@ -381,7 +381,7 @@ sections:
 
   - title: Zooming In and Out
     images:
-      - equipment/cam_canon_hfg70_top.avif
+      - images/equipment/cam_canon_hfg70_top.avif
     body: |
       **Zoom rocker (main zoom control)**
       • Use the zoom rocker on the grip located to the right of the viewfinder: press toward **T** to zoom in (closer) and toward **W** to zoom out (wider).
@@ -472,13 +472,13 @@ storage: "A"
 
 # cover images for the carousel
 coverImages:
-  - equipment/cam_canon_xf605_cover.avif
+  - images/equipment/cam_canon_xf605_cover.avif
 
 # collapsible sections
 sections:
   - title: Powering the Camera
     images:
-      - equipment/cam_canon_xf605_back.avif
+      - images/equipment/cam_canon_xf605_back.avif
     body: |
       **Battery (BP-A30 / BP-A60)**
       • Turn the camera off before inserting or removing a battery.
@@ -501,7 +501,7 @@ sections:
 
   - title: SD Cards
     images:
-      - equipment/cam_canon_xf605_back.avif
+      - images/equipment/cam_canon_xf605_back.avif
     body: |
       The SD card slots are located at the back of the camera, to the left of the battery compartment.
 
@@ -519,7 +519,7 @@ sections:
 
   - title: Recording Video
     images:
-      - equipment/cam_canon_xf605_top.avif
+      - images/equipment/cam_canon_xf605_top.avif
     body: |
       **Start/Stop Recording**
       • Confirm you are in *CAMERA mode* (shooting).
@@ -531,7 +531,7 @@ sections:
 
   - title: Infrared Recording (IR)
     images:
-      - equipment/cam_canon_xf605_left.avif
+      - images/equipment/cam_canon_xf605_left.avif
     body: |
       **Turning infrared recording on/off**
       • Set the **INFRARED** switch to **ON** to enter infrared mode.
@@ -576,7 +576,7 @@ sections:
 
   - title: Audio
     images:
-      - equipment/cam_canon_xf605_right.avif
+      - images/equipment/cam_canon_xf605_right.avif
     body: |
       **Where to Plug In**
       • **INPUT 1 / INPUT 2 (XLR):** Use these for XLR microphones or other professional audio sources.
@@ -624,7 +624,7 @@ storage: "A"
 
 # cover images for the carousel
 coverImages:
-  - equipment/cam_osmo_pocket_3_cover.avif
+  - images/equipment/cam_osmo_pocket_3_cover.avif
 
 # high‑level description
 description: |
@@ -669,8 +669,8 @@ sections:
 
   - title: Charging & Handles
     images:
-      - equipment/cam_osmo_pocket_3_battery.avif
-      - equipment/cam_osmo_pocket_3_tripod.avif
+      - images/equipment/cam_osmo_pocket_3_battery.avif
+      - images/equipment/cam_osmo_pocket_3_tripod.avif
     body: |
       **Charging:**
       • Connect a USB-C cable to the port at the bottom of the handle. 
@@ -699,7 +699,7 @@ storage: "A"
 
 # cover images for the carousel
 coverImages:
-  - equipment/cam_sony_a73_cover.avif
+  - images/equipment/cam_sony_a73_cover.avif
 
 # high‑level description shown in an "About" section
 description: |
@@ -709,8 +709,8 @@ description: |
 sections:
   - title: Intalling the Battery
     images:
-      - equipment/cam_sony_a73_battery1.avif
-      - equipment/cam_sony_a73_battery2.avif
+      - images/equipment/cam_sony_a73_battery1.avif
+      - images/equipment/cam_sony_a73_battery2.avif
     body: |
       **Battery (NP-FZ100)**
       • The battery compartment is on the bottom left of the grip. Twist the lock handle and pull to open the compartment.
@@ -718,7 +718,7 @@ sections:
 
   - title: Intalling the Memory Cards
     images:
-      - equipment/cam_sony_a73_memory.avif
+      - images/equipment/cam_sony_a73_memory.avif
     body: |
       **Memory Cards (Dual Slots)**
       • The media door is on the right side of the camera. Slide the cover back to open.
@@ -745,7 +745,7 @@ sections:
 
   - title: Exposure Tools
     images:
-      - equipment/cam_sony_a73_settings.avif
+      - images/equipment/cam_sony_a73_settings.avif
     body: |
       **Histogram**
       • Press the **DISP** (Display Setting) button on the control wheel repeatedly until the histogram graph appears on the screen.
@@ -790,7 +790,7 @@ storage: "A"
 
 # cover images for the carousel
 coverImages:
-  - equipment/cam_sony_fx3_cover.avif
+  - images/equipment/cam_sony_fx3_cover.avif
 
 # high‑level description shown in an "About" section
 description: |
@@ -800,8 +800,8 @@ description: |
 sections:
   - title: Intalling the Battery
     images:
-      - equipment/cam_sony_fx3_bottom.avif
-      - equipment/cam_sony_fx3_battery.avif
+      - images/equipment/cam_sony_fx3_bottom.avif
+      - images/equipment/cam_sony_fx3_battery.avif
     body: |
       **Battery (NP-FZ100)**
       • The battery compartment is on the bottom of the grip. Slide the switch to open.
@@ -809,7 +809,7 @@ sections:
 
   - title: Intalling the Memory Cards
     images:
-      - equipment/cam_sony_fx3_memory.avif
+      - images/equipment/cam_sony_fx3_memory.avif
     body: |
       **Memory Cards (Dual Slots)**
       • The media door is on the right side of the camera. Slide the latch down to open.
@@ -860,7 +860,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_canon_14mm_f2.8_cover.avif
+  - images/equipment/lens_canon_14mm_f2.8_cover.avif
 
 sections:
   - title: What this lens is
@@ -896,7 +896,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_canon_24-70mm_cover.avif
+  - images/equipment/lens_canon_24-70mm_cover.avif
 
 sections:
   - title: What this lens is
@@ -932,7 +932,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_canon_24mm_t1.5_cover.avif
+  - images/equipment/lens_canon_24mm_t1.5_cover.avif
 
 sections:
   - title: What this lens is
@@ -968,7 +968,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_canon_35mm_f1.4_cover.avif
+  - images/equipment/lens_canon_35mm_f1.4_cover.avif
 
 sections:
   - title: What this lens is
@@ -1004,7 +1004,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_canon_70-200mm_f2.8_cover.avif
+  - images/equipment/lens_canon_70-200mm_f2.8_cover.avif
 
 sections:
   - title: What this lens is
@@ -1040,7 +1040,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_sony_12-24mm_f4_cover.avif
+  - images/equipment/lens_sony_12-24mm_f4_cover.avif
 
 sections:
   - title: What this lens is
@@ -1078,7 +1078,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_sony_16-35mm_f4_cover.avif
+  - images/equipment/lens_sony_16-35mm_f4_cover.avif
 
 sections:
   - title: What this lens is
@@ -1114,7 +1114,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_sony_24-70mm_f2.8_cover.avif
+  - images/equipment/lens_sony_24-70mm_f2.8_cover.avif
 
 sections:
   - title: What this lens is
@@ -1152,7 +1152,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_sony_50mm_f1.4_cover.avif
+  - images/equipment/lens_sony_50mm_f1.4_cover.avif
 
 sections:
   - title: What this lens is
@@ -1188,7 +1188,7 @@ quantity: 1
 storage: "A"
 
 coverImages:
-  - equipment/lens_sony_70-200mm_f2.8_cover.avif
+  - images/equipment/lens_sony_70-200mm_f2.8_cover.avif
 
 sections:
   - title: What this lens is
@@ -1224,7 +1224,7 @@ quantity: 1
 storage: "Tripod Shelf & Cabinet 4"
 
 coverImages:
-  - equipment/light_aputure_200x_s_cover.avif
+  - images/equipment/light_aputure_200x_s_cover.avif
 
 description: |
   A compact 200W COB light with adjustable color temperature (warm to cool) and built-in controls for brightness and color.
@@ -1240,13 +1240,13 @@ sections:
 
   - title: Setting up
     images:
-      - equipment/light_aputure_200x_s_setup01.avif
-      - equipment/light_aputure_200x_s_setup02.avif
-      - equipment/light_aputure_200x_s_setup03.avif
-      - equipment/light_aputure_200x_s_setup04.avif
-      - equipment/light_aputure_200x_s_setup05.avif
-      - equipment/light_aputure_200x_s_setup06.avif
-      - equipment/light_aputure_200x_s_setup07.avif
+      - images/equipment/light_aputure_200x_s_setup01.avif
+      - images/equipment/light_aputure_200x_s_setup02.avif
+      - images/equipment/light_aputure_200x_s_setup03.avif
+      - images/equipment/light_aputure_200x_s_setup04.avif
+      - images/equipment/light_aputure_200x_s_setup05.avif
+      - images/equipment/light_aputure_200x_s_setup06.avif
+      - images/equipment/light_aputure_200x_s_setup07.avif
     body: |
       **Note:** The light umbrella is stored on the **camera tripod shelf**.
 
@@ -1275,7 +1275,7 @@ sections:
 
   - title: Powering the light
     images:
-      - equipment/light_aputure_200x_s_back.avif
+      - images/equipment/light_aputure_200x_s_back.avif
     body: |
       **1) Mount the power adapter**
       Run the power brick's wire through the adapter clasp and hang the brick on the stand bracket so it is not dangling freely.
@@ -1288,7 +1288,7 @@ sections:
 
   - title: Setting brightness (INT knob)
     images:
-      - equipment/light_aputure_200x_s_back.avif
+      - images/equipment/light_aputure_200x_s_back.avif
     body: |
       Rotate the **INT** knob to adjust brightness in small steps from **0% to 100%**. The display shows the current brightness as you adjust.
 
@@ -1296,7 +1296,7 @@ sections:
 
   - title: Setting color temperature (CCT knob)
     images:
-      - equipment/light_aputure_200x_s_back.avif
+      - images/equipment/light_aputure_200x_s_back.avif
     body: |
       Rotate the **CCT** knob to shift the light from warmer to cooler. The amaran 200x S supports approximately **2700K to 6500K** and shows the current value on the display.
 
@@ -1325,10 +1325,10 @@ sections:
 
   - title: Packing up
     images:
-      - equipment/light_aputure_200x_s_packup01.avif
-      - equipment/light_aputure_200x_s_packup02.avif
-      - equipment/light_aputure_200x_s_packup03.avif
-      - equipment/light_aputure_200x_s_packup04.avif
+      - images/equipment/light_aputure_200x_s_packup01.avif
+      - images/equipment/light_aputure_200x_s_packup02.avif
+      - images/equipment/light_aputure_200x_s_packup03.avif
+      - images/equipment/light_aputure_200x_s_packup04.avif
     body: |
       **1) Remove the white filter sheet**
       Take off the white filter sheet and place it back into its plastic packaging.
@@ -1353,14 +1353,14 @@ quantity: 2
 storage: "3"
 
 coverImages:
-  - equipment/light_felloni_tecpro_d50ho_cover.avif
+  - images/equipment/light_felloni_tecpro_d50ho_cover.avif
 description: |
   A 1x1 daylight LED panel with built-in dimming, designed for quick setups as a key, fill, or general base light.
 
 sections:
   - title: Main parts
     images:
-      - equipment/light_felloni_tecpro_d50ho_back.avif
+      - images/equipment/light_felloni_tecpro_d50ho_back.avif
     body: |
       **Power switch (0 / 1):** Turns the light off and on.
       **Dimmer knob:** Adjusts brightness from low to high.
@@ -1371,7 +1371,7 @@ sections:
 
   - title: Mounting to a light stand
     images:
-      - equipment/light_felloni_tecpro_d50ho_front.avif
+      - images/equipment/light_felloni_tecpro_d50ho_front.avif
     body: |
       **Step 1: Prepare the stand**
       • Fully spread the stand legs until it feels stable.
@@ -1388,7 +1388,7 @@ sections:
 
   - title: Power options
     images:
-      - equipment/light_felloni_tecpro_d50ho_back.avif
+      - images/equipment/light_felloni_tecpro_d50ho_back.avif
     body: |
       This light is commonly powered in three ways: **AC adapter**, **DC input**, or **V-mount battery** (depending on what accessories your unit has).
 
@@ -1408,7 +1408,7 @@ sections:
 
   - title: Turning on and setting brightness
     images:
-      - equipment/light_felloni_tecpro_d50ho_back.avif
+      - images/equipment/light_felloni_tecpro_d50ho_back.avif
     body: |
       **Power on**
       • Flip the rear **power switch** from **0** (off) to **1** (on).
@@ -1459,7 +1459,7 @@ quantity: 2
 storage: "4"
 
 coverImages:
-  - equipment/light_godox_ml60_cover.avif
+  - images/equipment/light_godox_ml60_cover.avif
 
 description: |
   A compact bi-color COB light with adjustable brightness, adjustable color temperature, built-in FX modes, Bluetooth app control, and multiple power options.
@@ -1486,8 +1486,8 @@ sections:
 
   - title: Mounting the light
     images: 
-      - equipment/light_godox_ml60_01.avif
-      - equipment/light_godox_ml60_03.avif
+      - images/equipment/light_godox_ml60_01.avif
+      - images/equipment/light_godox_ml60_03.avif
     body: |
       - Attach the **holder AD-E2** or your mounting bracket securely to the light first.
       - Mount the light onto a light stand and tighten the stand knob firmly so the light does not wobble.
@@ -1504,7 +1504,7 @@ sections:
 
   - title: Using the Godox Collapsible Diffusion Dome AK-R22
     images: 
-      - equipment/light_godox_ml60_diffuser.avif
+      - images/equipment/light_godox_ml60_diffuser.avif
     body: |
       The **Godox AK-R22 Collapsible Diffusion Dome** is an optional diffuser that softens the light output and makes shadows less harsh. It is useful when you want a gentler look on faces or when the bare reflector feels too strong. :contentReference[oaicite:0]{index=0}
 
@@ -1529,7 +1529,7 @@ sections:
 
   - title: Powering the light
     images:  
-      - equipment/light_godox_ml60_02.avif
+      - images/equipment/light_godox_ml60_02.avif
     body: |
       **AC power:** Connect the adapter to the **DC input port** on the light, then connect the AC power cord to the adapter and wall outlet.
       **Battery power:** If you are using a battery kit, attach the battery case to the holder, connect the DC cable from the battery case to the light body, and insert the correct batteries.
@@ -1623,7 +1623,7 @@ quantity: 2
 storage: "4"
 
 coverImages:
-  - equipment/light_manfrotto_croma2_cover.avif
+  - images/equipment/light_manfrotto_croma2_cover.avif
 
 description: |
   A compact, bi-color LED panel designed for on-camera or stand-mounted use, with adjustable brightness and adjustable color temperature.
@@ -1631,8 +1631,8 @@ description: |
 sections:
   - title: Setup
     images:
-      - equipment/light_manfrotto_croma2_side.avif
-      - equipment/light_manfrotto_croma2_back.avif
+      - images/equipment/light_manfrotto_croma2_side.avif
+      - images/equipment/light_manfrotto_croma2_back.avif
     body: |
       **Step 1:** Mount the light securely (see Mounting).
       **Step 2:** Choose a power method (AC adapter, Sony L-type battery, or AA batteries).
@@ -1642,7 +1642,7 @@ sections:
 
   - title: Controls
     images:
-      - equipment/light_manfrotto_croma2_side.avif
+      - images/equipment/light_manfrotto_croma2_side.avif
     body: |
       **Brightness dial:** Adjusts output from **1% to 100%**.
       **Color temperature dial:** Shifts the light from a warmer look (lower number) to a cooler daylight look (higher number).
@@ -1650,7 +1650,7 @@ sections:
 
   - title: Power options
     images:
-      - equipment/light_manfrotto_croma2_back.avif
+      - images/equipment/light_manfrotto_croma2_back.avif
     body: |
       This light is designed to run from multiple power sources depending on what you have available.
 
@@ -1666,7 +1666,7 @@ sections:
 
   - title: Diffuser (soften the light)
     images:
-      - equipment/light_manfrotto_croma2_diffuser.avif
+      - images/equipment/light_manfrotto_croma2_diffuser.avif
     body: |
       **What it does:** The diffuser makes the light softer and reduces harsh shadows.
       **How to use it:** Attach the diffuser securely on the front, then re-check your brightness because diffusion reduces output.
@@ -1695,7 +1695,7 @@ quantity: 8
 storage: "Tripod Shelf"
 
 coverImages:
-  - equipment/light_nanlite_pavotube_ii_cover.avif
+  - images/equipment/light_nanlite_pavotube_ii_cover.avif
 
 description: |
   A battery-powered RGBWW tube light with CCT, HSI, and built-in effect modes. It can be powered by its internal battery, DC adapter, or compatible USB-C PD power, and can also be controlled by Bluetooth, 2.4G, and DMX.
@@ -1942,7 +1942,7 @@ storage: "4"
 
 # cover images for the carousel
 coverImages:
-  - equipment/tripod_manfrotto_befree_cover.avif
+  - images/equipment/tripod_manfrotto_befree_cover.avif
 
 # high‑level description
 description: |
@@ -1952,7 +1952,7 @@ description: |
 sections:
   - title: Leg Setup
     images:
-      - equipment/tripod_manfrotto_befree_legs.avif
+      - images/equipment/tripod_manfrotto_befree_legs.avif
     body: |
       **Extending Legs**
       • Twist the rubber grip **counter-clockwise** to unlock a leg section.
@@ -1984,7 +1984,7 @@ sections:
 
   - title: Pan & Tilt Controls
     images: 
-    - equipment/tripod_manfrotto_adjust.avif
+    - images/equipment/tripod_manfrotto_adjust.avif
     body: |
       **Tilt (Up/Down)**
       • Unlock the **Tilt Lock Knob** on the left side of the head.
@@ -2012,15 +2012,15 @@ quantity: 4
 storage: "Tripod Shelf"
 
 coverImages:
-  - equipment/tripod_sachtler_flow75_cover.avif
+  - images/equipment/tripod_sachtler_flow75_cover.avif
 description: |
   The Sachtler Flowtech 75 is a carbon-fiber tripod system. Unlike traditional tripods with multiple knobs per leg, it uses a single quick-release brake at the top of each leg for instant height adjustment.
 
 sections:
   - title: Setup & Height Adjustment (The Legs)
     images:
-      - equipment/tripod_sachtler_flow75_legs_1.avif
-      - equipment/tripod_sachtler_flow75_legs_2.avif
+      - images/equipment/tripod_sachtler_flow75_legs_1.avif
+      - images/equipment/tripod_sachtler_flow75_legs_2.avif
     body: |
       **Deploying the Legs**
       The legs are held together by magnetic clasps. Simply pull them apart to separate.
@@ -2033,8 +2033,8 @@ sections:
 
   - title: Levelling the Bubble
     images:
-      - equipment/tripod_sachtler_flow75_bubble_1.avif
-      - equipment/tripod_sachtler_flow75_bubble_2.avif
+      - images/equipment/tripod_sachtler_flow75_bubble_1.avif
+      - images/equipment/tripod_sachtler_flow75_bubble_2.avif
     body: |
       • Reach under the bowl and loosen the tie-down knob (the handle hanging below the head).
       • Adjust the head until the bubble is centered.
@@ -2042,9 +2042,9 @@ sections:
 
   - title: Mounting the Camera
     images:
-      - equipment/tripod_sachtler_flow75_mount_1.avif
-      - equipment/tripod_sachtler_flow75_mount_2.avif
-      - equipment/tripod_sachtler_flow75_mount_3.avif
+      - images/equipment/tripod_sachtler_flow75_mount_1.avif
+      - images/equipment/tripod_sachtler_flow75_mount_2.avif
+      - images/equipment/tripod_sachtler_flow75_mount_3.avif
     body: |
       1. Loosen the side lock knob.
       2. Slide the camera in from the rear of the mount until a click is heard.
@@ -2052,8 +2052,8 @@ sections:
 
   - title: Balancing & Movement
     images:
-      - equipment/tripod_sachtler_flow75_adjust_1.avif
-      - equipment/tripod_sachtler_flow75_adjust_2.avif
+      - images/equipment/tripod_sachtler_flow75_adjust_1.avif
+      - images/equipment/tripod_sachtler_flow75_adjust_2.avif
     body: |
       **Counterbalance**
       • Unlock the tilt brake. Tilt the camera forward/backward.

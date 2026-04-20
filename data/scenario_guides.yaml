@@ -1,7 +1,7 @@
 id: indoor_interview
 name: Indoor Interview
 coverImages: 
-  - scenarios/indoor_interview_cover.avif
+  - images/scenarios/indoor_interview_cover.avif
 sections:
   - title: Goal of this setup
     images: []
@@ -111,7 +111,7 @@ sections:
 id: live_streaming
 name: Live Streaming
 coverImages:
-  - scenarios/live_streaming_cover.avif
+  - images/scenarios/live_streaming_cover.avif
 sections:
   - title: Goal of this setup
     images: []
@@ -264,7 +264,7 @@ sections:
 id: outdoor_interview
 name: Outdoor Interview
 coverImages:
-  - scenarios/outdoor_interview_cover.avif
+  - images/scenarios/outdoor_interview_cover.avif
 sections:
   - title: Goal of this setup
     images: []

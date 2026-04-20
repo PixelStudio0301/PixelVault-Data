@@ -1,7 +1,7 @@
 id: audio_ports
 name: Audio Port Types
 coverImages:
-  - videography/audio_ports_cover.avif
+  - images/videography/audio_ports_cover.avif
 
 sections:
   - title: How to think about audio ports
@@ -24,7 +24,7 @@ sections:
 
   - title: 3.5mm jack (headphone-style ports)
     images:
-      - videography/audio_ports_3.5mm.avif
+      - images/videography/audio_ports_3.5mm.avif
     body: |
       The **3.5mm jack** is the small, round connector you see on phones, laptops, and many consumer cameras and recorders. It is often called a *headphone jack* or *aux jack*.
 
@@ -50,7 +50,7 @@ sections:
 
   - title: XLR ports (professional microphone connectors)
     images:
-      - videography/audio_ports_cover.avif
+      - images/videography/audio_ports_cover.avif
     body: |
       **XLR** ports are larger, circular connectors with 3 pins (for microphones) and a locking mechanism. They are very common on professional cameras, audio recorders, and mixing desks.
 
@@ -71,7 +71,7 @@ sections:
 
   - title: 1/4 inch (6.35mm) jacks
     images:
-      - videography/audio_ports_6.35mm.avif
+      - images/videography/audio_ports_6.35mm.avif
     body: |
       The **1/4 inch** (6.35mm) jack is a larger version of the headphone-style connector. You see it often on **musical instruments**, **mixers**, **audio interfaces**, and **studio headphones**.
 
@@ -95,7 +95,7 @@ sections:
 
   - title: RCA ports (red/white/yellow connectors)
     images:
-      - videography/audio_ports_rca.avif
+      - images/videography/audio_ports_rca.avif
     body: |
       **RCA** connectors are the small round ports often colored **red**, **white**, and **yellow** on older home audio and video gear.
 
@@ -116,7 +116,7 @@ sections:
 
   - title: Optical (TOSLINK) and digital audio ports
     images:
-      - videography/audio_ports_optical.avif
+      - images/videography/audio_ports_optical.avif
     body: |
       Some devices use **digital audio connections**, where sound is sent as data rather than as an analog electrical signal.
 
@@ -138,7 +138,7 @@ sections:
 
   - title: USB and USB-C audio
     images:
-      - videography/audio_ports_usbc.avif
+      - images/videography/audio_ports_usbc.avif
     body: |
       Many modern devices use **USB** or **USB-C** for audio, especially computers, tablets, and some cameras and microphones.
 
@@ -205,12 +205,12 @@ sections:
 id: exposure_triangle
 name: Exposure Triangle
 coverImages:
-  - videography/exposure_triangle_cover.avif
+  - images/videography/exposure_triangle_cover.avif
 
 sections:
   - title: What the exposure triangle controls
     images:
-      - videography/exposure_triangle_1.avif
+      - images/videography/exposure_triangle_1.avif
     body: |
       The **exposure triangle** is made of three settings:
 
@@ -287,7 +287,7 @@ sections:
 
   - title: How the three work together
     images:
-      - videography/exposure_triangle_2.avif
+      - images/videography/exposure_triangle_2.avif
     body: |
       Because **aperture**, **shutter speed**, and **ISO** all affect brightness, you can *trade one for another*.
 
@@ -359,7 +359,7 @@ sections:
 id: framing
 name: Framing
 coverImages:
-  - videography/framing_cover.avif
+  - images/videography/framing_cover.avif
 sections:
   - title: What framing is and why it matters
     images: []
@@ -372,7 +372,7 @@ sections:
 
   - title: Rule of thirds
     images:
-      - videography/framing_thirds.avif
+      - images/videography/framing_thirds.avif
     body: |
       The **rule of thirds** is a simple guide for placing important subjects in the frame.
 
@@ -389,7 +389,7 @@ sections:
 
   - title: Headroom
     images:
-      - videography/framing_headroom.avif
+      - images/videography/framing_headroom.avif
     body: |
       **Headroom** is the amount of space between the top of a person's head and the top edge of the frame.
 
@@ -421,7 +421,7 @@ sections:
 
   - title: Look room (nose room)
     images:
-      - videography/framing_lookroom.avif
+      - images/videography/framing_lookroom.avif
     body: |
       **Look room** (also called **nose room**) is the space in front of where a person is facing or looking. If someone is turned to the right, the empty space on the right side of the frame is their look room.
 
@@ -436,7 +436,7 @@ sections:
 
   - title: Center framing vs. off-center framing
     images:
-      - videography/framing_frame.avif
+      - images/videography/framing_frame.avif
     body: |
       You can frame subjects **in the center** or **off-center**, and each choice has a different feeling.
 
@@ -456,7 +456,7 @@ sections:
 
   - title: Leading lines and visual flow
     images:
-      - videography/framing_flow.avif
+      - images/videography/framing_flow.avif
     body: |
       **Leading lines** are lines inside your scene that naturally guide the viewer's eye towards a subject. They can be obvious lines like roads, rails, walls, or shelves, or more subtle lines like the edges of furniture or beams of light.
 
@@ -469,7 +469,7 @@ sections:
 
   - title: Foreground, background, and depth
     images:
-      - videography/framing_depth.avif
+      - images/videography/framing_depth.avif
     body: |
       Framing is not just about what is in the middle of the frame but also about how you use the **foreground** and **background**. Adding elements in front of and behind your subject can create a sense of depth and make the image feel more three-dimensional.
 
@@ -485,7 +485,7 @@ sections:
 
   - title: Horizon lines and level frames
     images:
-      - videography/framing_dutch_angle.avif
+      - images/videography/framing_dutch_angle.avif
     body: |
       The **horizon line** or any strong horizontal line in your shot (like tables, shelves, or the edge of a wall) affects how stable your frame feels. In most cases, you want these lines to be level so the image feels balanced and not unintentionally tilted.
 
@@ -517,7 +517,7 @@ sections:
 id: histogram
 name: Histogram
 coverImages:
-  - videography/histogram_cover.avif
+  - images/videography/histogram_cover.avif
 sections:
   - title: What a histogram shows
     images: []
@@ -575,7 +575,7 @@ sections:
 id: shot_sizes_angles
 name: Shot Sizes and Angles
 coverImages:
-  - videography/shot_size_angle_cover.avif
+  - images/videography/shot_size_angle_cover.avif
 
 sections:
   - title: What shot size and angle do
@@ -589,7 +589,7 @@ sections:
 
   - title: Common shot sizes
     images:
-      - videography/shot_size_angle_1.avif
+      - images/videography/shot_size_angle_1.avif
     body: |
       Here are common shot sizes, from widest to closest.
 
@@ -630,7 +630,7 @@ sections:
 
   - title: Common shot angles
     images:
-      - videography/shot_size_angle_1.avif
+      - images/videography/shot_size_angle_1.avif
     body: |
       Shot angle changes the **feeling** of the shot even when the size stays the same.
 
@@ -677,7 +677,7 @@ sections:
 id: types_of_lenses
 name: Types of Lenses
 coverImages:
-  - videography/types_of_lenses_cover.avif
+  - images/videography/types_of_lenses_cover.avif
 
 sections:
   - title: The main lens types
@@ -803,7 +803,7 @@ sections:
 id: video_codecs
 name: Video Codecs
 coverImages:
-  - videography/video_codecs_cover.avif
+  - images/videography/video_codecs_cover.avif
 sections:
   - title: What is a video codec?
     images: []
@@ -893,7 +893,7 @@ sections:
 id: white_balance
 name: White Balance
 coverImages:
-  - videography/white_balance_cover.avif
+  - images/videography/white_balance_cover.avif
 sections:
   - title: Why white balance matters
     images: []
@@ -965,7 +965,7 @@ sections:
 id: zebra_stripes
 name: Zebra Patterning (Zebra Stripes)
 coverImages:
-  - videography/zebra_pattern_cover.avif
+  - images/videography/zebra_pattern_cover.avif
 sections:
   - title: What zebra stripes show you
     images: []
