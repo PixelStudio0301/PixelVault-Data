@@ -1,0 +1,1019 @@
+id: audio_ports
+name: Audio Port Types
+coverImages:
+  - assets/images/videography/audio_ports_cover.avif
+
+sections:
+  - title: How to think about audio ports
+    images: []
+    body: |
+      When you look at an audio port, ask these simple questions:
+
+      • **What is it for?**  
+        - Microphones, headphones, line-level devices (like mixers, music players), or speakers.
+
+      • **Is it mono or stereo?**  
+        - Mono: one audio channel (often for a single mic).  
+        - Stereo: two audio channels (left and right) in one connector.
+
+      • **Is it balanced or unbalanced?**  
+        - Balanced connections (often XLR or certain 1/4 inch cables) are better at rejecting noise over long cable runs.  
+        - Unbalanced connections (like most 3.5mm and RCA) are more sensitive to interference over long distances.
+
+      You do not need to memorize every technical detail, but having a rough idea of what each port is *meant* to do will help you plug things in correctly and avoid problems on set.
+
+  - title: 3.5mm jack (headphone-style ports)
+    images:
+      - assets/images/videography/audio_ports_3.5mm.avif
+    body: |
+      The **3.5mm jack** is the small, round connector you see on phones, laptops, and many consumer cameras and recorders. It is often called a *headphone jack* or *aux jack*.
+
+      *Common uses:*
+      • **Headphone output** - to monitor audio while recording or editing.  
+      • **Mic input** - on smaller cameras and recorders for simple microphones.  
+      • **Line input/output** - for connecting to phones, laptops, or small audio players.
+
+      There are a few important variations:
+
+      • **TRS (Tip-Ring-Sleeve)**  
+        - 3 metal sections on the plug.  
+        - Usually used for **stereo headphones** (left/right) or **balanced mono** in pro gear.
+
+      • **TRRS (Tip-Ring-Ring-Sleeve)**  
+        - 4 metal sections on the plug.  
+        - Common on phones and laptops for **headset+mic combo** jacks.
+
+      *What to watch out for:*
+      • A **TRRS phone microphone** will not always work correctly when plugged straight into a camera's **TRS mic input** without an adapter, and vice versa.  
+      • 3.5mm connections are **unbalanced** in most consumer setups, so long cables can pick up noise.  
+      • The jack on many cameras can be fragile; avoid yanking or bending the cable at sharp angles.
+
+  - title: XLR ports (professional microphone connectors)
+    images:
+      - assets/images/videography/audio_ports_cover.avif
+    body: |
+      **XLR** ports are larger, circular connectors with 3 pins (for microphones) and a locking mechanism. They are very common on professional cameras, audio recorders, and mixing desks.
+
+      *Key features:*
+      • Designed for **balanced audio**, which helps reduce noise and interference.  
+      • Can carry **phantom power** (often +48V) to power certain types of microphones (like many studio and shotgun mics).  
+      • Robust and secure, with a latch that prevents the cable from easily falling out.
+
+      *Common uses:*
+      • **Professional microphones**, especially on booms, stands, or long cable runs.  
+      • **Audio from mixers or interfaces** going into cameras or recorders.  
+      • **Stage and event setups**, where sound must travel long distances without noise.
+
+      *What to watch out for:*
+      • Do not turn phantom power on for devices that should not receive it (like some wireless receivers or certain line-level outputs) unless the manufacturer says it is safe.  
+      • XLR cables and ports are physically strong, but still avoid stepping on connectors or
+        forcing them at an angle.
+
+  - title: 1/4 inch (6.35mm) jacks
+    images:
+      - assets/images/videography/audio_ports_6.35mm.avif
+    body: |
+      The **1/4 inch** (6.35mm) jack is a larger version of the headphone-style connector. You see it often on **musical instruments**, **mixers**, **audio interfaces**, and **studio headphones**.
+
+      *Common types:*
+      • **1/4 inch TS (Tip-Sleeve)**  
+        - 2 metal sections on the plug.  
+        - Often used for **electric guitars** and some unbalanced line-level connections.
+
+      • **1/4 inch TRS (Tip-Ring-Sleeve)**  
+        - 3 metal sections.  
+        - Can be used for **stereo headphones** or **balanced mono** connections in professional gear.
+
+      *Common uses:*
+      • **Headphone outputs** on audio interfaces, mixers, and some recorders.  
+      • **Line-level inputs/outputs** on mixers and audio devices.  
+      • Connecting instruments (guitars, keyboards) to amps or interfaces.
+
+      *What to watch out for:*
+      • Not all 1/4 inch connectors are the same. A TRS headphone plug is not automatically the same as a TRS balanced line cable in how it is wired.  
+      • Many 1/4 inch connections are line-level, not mic-level; plugging a microphone directly into a line-only input may not work or will be very quiet.
+
+  - title: RCA ports (red/white/yellow connectors)
+    images:
+      - assets/images/videography/audio_ports_rca.avif
+    body: |
+      **RCA** connectors are the small round ports often colored **red**, **white**, and **yellow** on older home audio and video gear.
+
+      • **Red and white** - usually **right and left audio** channels.  
+      • **Yellow** - usually **composite video** (low-quality video signal, not audio).
+
+      *Common uses:*
+      • Connecting **DVD players**, **older game consoles**, or **hi-fi systems** to TVs or amplifiers.  
+      • Some older mixers and recorders have RCA in/out for **consumer line-level** signals.
+
+      *Characteristics:*
+      • RCA is almost always **unbalanced**, so it is more prone to noise and is best for short cables.  
+      • Audio is usually **line-level**, not mic-level.
+
+      *What to watch out for:*
+      • Do not expect RCA outputs to drive microphones or headphones directly.  
+      • When connecting RCA to cameras or recorders with 3.5mm or XLR, you may need the proper adapters and to set levels correctly (line vs mic).
+
+  - title: Optical (TOSLINK) and digital audio ports
+    images:
+      - assets/images/videography/audio_ports_optical.avif
+    body: |
+      Some devices use **digital audio connections**, where sound is sent as data rather than as an analog electrical signal.
+
+      *Optical (TOSLINK):*
+      • Uses a **square-shaped port** with a small light inside when active.  
+      • Carries digital audio through a **fiber optic cable**.  
+      • Often found on home theater systems, TVs, and some audio interfaces.
+
+      *Coaxial digital audio (RCA-style):*
+      • Looks like a single RCA jack but is used for **digital audio** instead of analog.  
+      • Often labeled as *Digital Out* or *S/PDIF*.
+
+      *What to know:*
+      • Digital ports do **not** carry analog mic signals, so you cannot plug a microphone directly into them.  
+      • They are mainly used for sending finished audio between devices (for example, from a player
+        to a sound system).
+
+      For most small video shoots, you will deal more with **analog ports** (XLR, 3.5mm, 1/4 inch) than with optical or coaxial digital connections.
+
+  - title: USB and USB-C audio
+    images:
+      - assets/images/videography/audio_ports_usbc.avif
+    body: |
+      Many modern devices use **USB** or **USB-C** for audio, especially computers, tablets, and some cameras and microphones.
+
+      *Common examples:*
+      • **USB microphones** that plug straight into a computer or tablet.  
+      • **Audio interfaces** that send and receive multi-channel audio over USB.  
+      • **Phones and laptops** that no longer have a classic headphone jack and instead use
+        **USB-C audio adapters**.
+
+      *Key points:*
+      • USB carries **digital audio data**, not a simple analog signal.  
+      • You cannot plug a USB mic directly into an XLR port without a special device in between; they are different systems.  
+      • USB audio is great for **recording into computers**, but may not plug directly into traditional video cameras without extra hardware.
+
+      In a mixed setup (camera + laptop), you might:
+      • Record high-quality audio via a USB interface into a computer.  
+      • Send a simpler **line-level feed** from the interface to the camera's analog input, so both devices capture usable sound.
+
+  - title: Combo ports and labeling on cameras/recorders
+    images: []
+    body: |
+      Many cameras and recorders combine multiple functions into a single port or set of ports.
+
+      *Combo ports:*
+      • **XLR / 1/4 inch combo jacks** - These accept either an XLR plug or a 1/4 inch plug in the same hole.  
+        - XLR side is usually for **microphones** (often with phantom power).  
+        - 1/4 inch side is often for **line-level** or **instrument-level** signals.
+
+      • **Mic/Line switches** - Some ports can be switched between **mic level** and **line level**.  
+        - *Mic level* is for microphones, which are very quiet and need a lot of amplification.  
+        - *Line level* is for louder signals from mixers, audio players, or wireless receivers.
+
+      *Reading labels carefully:*
+      • Look for labels like **MIC IN**, **LINE IN**, **PHONES**, **HEADPHONES**, or **AUX**.  
+      • Check whether a port is an **input** (audio going *into* the device) or an **output** (audio going *out* to another device).  
+      • On many cameras, the 3.5mm **headphone output** and the 3.5mm **mic input** look similar, so double-check the icons and text.
+
+      Getting into the habit of quickly reading the labels and understanding each port's purpose will save you from common mistakes such as plugging headphones into a mic input or sending a loud line-level signal into a sensitive mic-only input.
+
+  - title: Choosing the right port in real-world setups
+    images: []
+    body: |
+      When setting up audio for a shoot, you can follow a simple checklist:
+
+      • **For microphones close to camera (simple shoots):**  
+        - Use the camera's **3.5mm mic input** with a suitable mic and the correct TRS/TRRS adapter if needed.  
+        - Monitor using the **headphone output** (3.5mm or 1/4 inch) if available.
+
+      • **For professional mics and longer cable runs:**  
+        - Use **XLR inputs** on a camera, recorder, or audio interface.  
+        - Turn on **phantom power** only if the microphone requires it.  
+        - Keep using XLR as far as possible to avoid noise.
+
+      • **For audio from mixers or wireless receivers:**  
+        - Check if the output is **line-level** or **mic-level**.  
+        - Match it with a **line-level input** on your camera/recorder, or reduce it as needed.  
+        - Use XLR or 1/4 inch where possible; use 3.5mm with the right adapters.
+
+      • **For monitoring and playback:**  
+        - Use **headphone outputs** (3.5mm or 1/4 inch) for headphones.  
+        - Use **line outputs** (RCA, 1/4 inch, XLR) for speakers or other recording devices.
+
+---
+id: exposure_triangle
+name: Exposure Triangle
+coverImages:
+  - assets/images/videography/exposure_triangle_cover.avif
+
+sections:
+  - title: What the exposure triangle controls
+    images:
+      - assets/images/videography/exposure_triangle_1.avif
+    body: |
+      The **exposure triangle** is made of three settings:
+
+      • **Aperture** - how big the opening in the lens is.  
+      • **Shutter speed** - how long the camera lets light in for each frame.  
+      • **ISO** - how strongly the camera boosts the light it receives.
+
+      *How they affect brightness:*
+      • A wider opening, a longer exposure time, or a higher ISO will make the image **brighter**.  
+      • A narrower opening, a shorter exposure time, or a lower ISO will make the image **darker**.
+
+      *How they affect the look of your image:*
+      • **Aperture** changes how much of the scene looks sharp from front to back.  
+      • **Shutter speed** changes how motion looks (smooth and blurry vs. sharp and stiff).  
+      • **ISO** changes how clean or noisy the image looks in darker areas.
+
+      Learning the exposure triangle is about *balancing brightness and style*. You use these three settings together to get both the correct exposure and the look you want.
+
+  - title: Aperture (lens opening)
+    images: []
+    body: |
+      **Aperture** is a small opening inside the lens that can open up or close down. Your camera shows aperture as an *f-number*, such as **f/1.8**, **f/2.8**, **f/4**, **f/8**, and so on.
+
+      *How it affects brightness:*
+      • A **low f-number** (for example, f/1.8 or f/2.8) means a wide opening that lets in **more light**.  
+      • A **high f-number** (for example, f/8 or f/11) means a narrow opening that lets in **less light**.
+
+      *How it affects the look of your image:*
+      • **Wide aperture (low f-number)** - the subject is sharp but the background becomes soft and blurry. This is useful for interviews or close-ups where you want the viewer to focus on a person.  
+      • **Narrow aperture (high f-number)** - more of the scene from front to back looks sharp. This is useful for landscapes, group shots, or when you want everything in focus.
+
+      *Things to keep in mind:*
+      • Indoors or in dim light, you often use a **lower f-number** to let in more light.  
+      • Outdoors on a bright day, you may need a **higher f-number** so the image is not too bright.  
+      • Changing the aperture will change brightness, so you may need to adjust *shutter speed* or *ISO* after changing it.
+
+  - title: Shutter speed (how long light hits the sensor)
+    images: []
+    body: |
+      **Shutter speed** is how long the camera records light for each frame. It is usually shown as a fraction, such as **1/50**, **1/100**, or **1/250** of a second.
+
+      *How it affects brightness:*
+      • A **slower shutter** (for example, 1/25) lets light in for a longer time and makes the image **brighter**.  
+      • A **faster shutter** (for example, 1/250) lets light in for a shorter time and makes the image **darker**.
+
+      *How it affects motion:*
+      • **Slower shutter speeds** create more motion blur. Moving subjects look softer and streaky.  
+      • **Faster shutter speeds** create less motion blur. Moving subjects look sharper and more frozen.
+
+      *For video, a common starting point:*
+      • Choose a shutter speed that is roughly **double your frame rate**.  
+        For example:  
+        - If you shoot at *25 fps*, try **1/50**.  
+        - If you shoot at *30 fps*, try **1/60**.
+
+      This gives movement a natural, smooth look that feels comfortable to watch. You can go faster to make movement look sharper, but if you go too fast the motion can start to look *choppy or harsh*.
+
+  - title: ISO (camera brightness boost)
+    images: []
+    body: |
+      **ISO** controls how strongly the camera boosts the light it has already received. It does not add new light to the scene; it simply *amplifies* what is there.
+
+      *How it affects brightness:*
+      • A **low ISO value** (for example, 100 or 200) makes the image darker but **cleaner**.  
+      • A **high ISO value** (for example, 1600 or 3200 and above) makes the image **brighter**.
+
+      *How it affects image quality:*
+      • At **low ISO**, the image usually looks smooth and clean.  
+      • At **higher ISO**, you will start to see grain or specks, especially in darker areas of the image. This is often called *noise*.
+
+      *A simple rule:*
+      • Keep ISO as **low as you reasonably can** for a clean image.  
+      • Raise ISO only when you have already opened your aperture and slowed your shutter speed as much as you are comfortable with, but the image is still too dark.
+
+  - title: How the three work together
+    images:
+      - assets/images/videography/exposure_triangle_2.avif
+    body: |
+      Because **aperture**, **shutter speed**, and **ISO** all affect brightness, you can *trade one for another*.
+
+      *Example 1 - You want more background blur:*
+      • You open the aperture (go from f/4 to f/2.8) to blur the background more.  
+      • This makes the image brighter, so you may:  
+        - Raise your shutter speed (for example, from 1/50 to 1/100), or  
+        - Lower your ISO a step (for example, from 800 to 400).
+
+      *Example 2 - You want sharper action:*
+      • You raise the shutter speed (for example, from 1/50 to 1/200) to freeze movement better.  
+      • This makes the image darker, so you may:  
+        - Open the aperture (go to a lower f-number), or  
+        - Increase ISO (for example, from 400 to 800 or 1600).
+
+      *Example 3 - The room is very dark:*
+      • You first open your aperture as wide as you are comfortable.  
+      • You choose the slowest shutter speed that still keeps motion acceptable.  
+      • If the image is still too dark, you then raise the ISO until it looks bright enough, even if it adds some noise.
+
+      The key idea:  
+      • You rarely change just *one* side of the triangle.  
+      • You pick the **look** you want (blur, motion, cleanliness), then move the other settings to keep the exposure correct.
+
+  - title: Simple starting settings for common situations
+    images: []
+    body: |
+      These are only starting points. You can adjust them based on your camera and taste.
+
+      *1) Talking-head interview indoors*
+      • Aperture: around **f/2.8-f/4** for a softly blurred background.  
+      • Shutter speed: about **1/50** if you shoot 25 fps, or **1/60** if you shoot 30 fps.  
+      • ISO: start low (**100-400**). If the image is too dark, raise ISO until it looks good.  
+      • Add a soft light on the subject if you can, so you do not need to push ISO too high.
+
+      *2) Person walking outdoors in daylight*
+      • Aperture: start around **f/4-f/5.6** so the person and some background are both reasonably sharp.  
+      • Shutter speed: **1/50-1/100** at 25 fps, or **1/60-1/120** at 30 fps.  
+      • ISO: begin at your lowest ISO (often **100**). If the image is still too bright, use a higher f-number (like f/8) or a faster shutter speed.
+
+      *3) Fast movement (sports or kids running)*
+      • Aperture: as wide as you can manage (low f-number) to let in more light.  
+      • Shutter speed: faster, such as **1/200** or **1/250**, to keep movement sharp.  
+      • ISO: raise ISO as needed to keep the image bright enough, since the fast shutter lets in less light.
+
+  - title: Common problems and how to fix them
+    images: []
+    body: |
+      *Problem 1 - Image is too dark*
+      • Open the aperture (use a lower f-number).  
+      • Slow down the shutter speed slightly (for example, from 1/100 to 1/50), as long as motion does not become too blurry.  
+      • Raise ISO until the image reaches a good brightness, accepting a bit more noise if needed.
+
+      *Problem 2 - Image is too bright*
+      • Close the aperture a bit (use a higher f-number).  
+      • Speed up the shutter (for example, from 1/50 to 1/100).  
+      • Lower ISO if it is set higher than the base value.
+
+      *Problem 3 - Subject is blurry when moving*
+      • Speed up the shutter (for example, from 1/50 to 1/200 or higher).  
+      • To keep the image bright, open the aperture or raise ISO.
+
+      *Problem 4 - Image looks grainy or noisy*
+      • Lower the ISO if possible.  
+      • Add more light to the scene if you can (for example, by moving closer to a window or switching on a lamp).  
+      • If you must raise ISO, try not to push it higher than needed for a usable brightness.
+
+---
+id: framing
+name: Framing
+coverImages:
+  - assets/images/videography/framing_cover.avif
+sections:
+  - title: What framing is and why it matters
+    images: []
+    body: |
+      **Framing** is how you place people and objects inside the four edges of your image.
+
+      Good framing helps the viewer know what to look at, understand relationships between characters, and feel the mood of the scene. Even small changes, like moving the camera slightly or shifting a subject a little to the left or right, can make a big difference in how clear and professional your shot looks.
+
+      Basic framing tools include the **rule of thirds**, **headroom**, **look room**, **leading lines**, and how you use the **background and foreground**.
+
+  - title: Rule of thirds
+    images:
+      - assets/images/videography/framing_thirds.avif
+    body: |
+      The **rule of thirds** is a simple guide for placing important subjects in the frame.
+
+      Imagine your screen divided into three equal parts horizontally and three equal parts vertically, forming a grid with nine rectangles and four intersection points.
+
+      Many cameras and phones can display this grid to help you compose your shot.
+
+      Instead of putting your subject directly in the center every time, the rule of thirds suggests:
+      • Place important subjects along one of the vertical lines, not always in the middle.  
+      • Place key features like eyes or faces near one of the four intersection points.  
+      • Place horizons or strong horizontal lines along one of the horizontal lines, usually the top or bottom third, rather than cutting the frame in half.
+
+      This often makes the image feel more dynamic and balanced while still being easy to read. You do not have to follow the rule of thirds all the time, but it is a reliable starting point when you are not sure where to place your subject.
+
+  - title: Headroom
+    images:
+      - assets/images/videography/framing_headroom.avif
+    body: |
+      **Headroom** is the amount of space between the top of a person's head and the top edge of the frame.
+
+      If there is **too much** headroom, the person looks like they are sinking down in the frame and the empty space above them becomes distracting.
+
+      If there is **too little** headroom, the top of the head is cut off and the frame can feel cramped or accidental instead of intentional.
+
+      *Basic guideline for most talking shots*
+      For a medium shot or medium close-up, keep a small, comfortable gap between the top of the head and the top of the frame. Many camera operators like to place the subject's eyes roughly along the upper horizontal third of the frame (using the rule-of-thirds grid if available).
+
+      This usually gives enough headroom without leaving a large empty space above the subject.
+
+      *How headroom changes when you move the camera*
+      If you tilt the camera up or down, the headroom changes even if the person does not move. After you adjust your shot size or angle, quickly check the top of the frame and correct the headroom with a small tilt if needed.
+
+      When someone stands up or sits down during a shot, you may need to tilt to keep their headroom looking natural.
+
+      *Different shot sizes, different headroom*
+      In a **wide shot**, you will naturally see more space above and around the subject, so a bit of extra headroom can be fine as long as it feels balanced with the rest of the frame.
+      In a **medium shot** or **medium close-up**, headroom is more noticeable, so keep the space above the head smaller and more controlled.
+      In a **close-up**, you can let the top of the head get close to the frame edge or even crop a little, as long as the shot still feels intentional and comfortable.
+
+      *Breaking the rule on purpose*
+      You can give a character **more headroom** if you want them to feel small, lonely, or overwhelmed by their surroundings.
+
+      You can give **less headroom** or crop the top of the head to make the frame feel tighter and more intense.
+
+      The key is to make these choices *deliberately* rather than by accident.
+
+  - title: Look room (nose room)
+    images:
+      - assets/images/videography/framing_lookroom.avif
+    body: |
+      **Look room** (also called **nose room**) is the space in front of where a person is facing or looking. If someone is turned to the right, the empty space on the right side of the frame is their look room.
+
+      Giving enough look room helps the frame feel comfortable and natural.
+
+      *Basic guideline*
+      When a person is facing to one side, place them closer to the opposite side of the frame. For example, if they are looking to the right, place them on the left third of the frame so there is more space in front of their face than behind the back of their head.
+
+      If you place them too close to the edge they are facing, it feels like their face is “pressed” against the edge of the frame. Look room is especially important in interviews, over-the-shoulder shots, and any shot where direction and eye-line matter.
+
+      Like headroom, you can break this rule on purpose to create a feeling of tension, discomfort, or being trapped, but it should be a clear choice, not an accident.
+
+  - title: Center framing vs. off-center framing
+    images:
+      - assets/images/videography/framing_frame.avif
+    body: |
+      You can frame subjects **in the center** or **off-center**, and each choice has a different feeling.
+
+      Center framing is when the subject is placed in the middle of the frame, usually with equal space on both sides.
+
+      Off-center framing is when the subject is closer to one side, often using the rule of thirds.
+
+      *Center framing*
+      Centered shots can feel stable, direct, and powerful. They are often used when you want to emphasize the subject strongly, make someone feel dominant, or create a graphic or symmetrical look.
+      However, if everything is always centered, your shots can start to feel flat or repetitive.
+
+      *Off-center framing*
+      Off-center framing tends to feel more natural and cinematic. It leaves room for the environment, for movement, or for another subject to enter the frame. Off-center framing works especially well with the rule-of-thirds grid.
+
+      Neither option is “right” or “wrong”.
+      A common approach is to use off-center framing most of the time and reserve center framing for moments where you want extra impact or a more stylized look.
+
+  - title: Leading lines and visual flow
+    images:
+      - assets/images/videography/framing_flow.avif
+    body: |
+      **Leading lines** are lines inside your scene that naturally guide the viewer's eye towards a subject. They can be obvious lines like roads, rails, walls, or shelves, or more subtle lines like the edges of furniture or beams of light.
+
+      You can use leading lines to:
+      • Draw attention to a person or object by having lines converge near them.  
+      • Add depth by letting lines recede into the distance.  
+      • Guide the viewer's eye through a scene in a specific direction, such as from foreground to background.
+
+      Be careful of strong lines that accidentally point away from your subject or that lead the eye out of the frame. If you see a bright line or edge pulling attention away, you might reframe slightly to reduce its impact.
+
+  - title: Foreground, background, and depth
+    images:
+      - assets/images/videography/framing_depth.avif
+    body: |
+      Framing is not just about what is in the middle of the frame but also about how you use the **foreground** and **background**. Adding elements in front of and behind your subject can create a sense of depth and make the image feel more three-dimensional.
+
+      *Foreground elements*
+      You can let objects such as door frames, plants, railings, or other people enter the edges of the frame in front of your subject. This can create a feeling of looking **through** something and can help place the viewer inside the scene.
+
+      Just make sure the foreground does not block important parts of the subject unless you want that effect.
+
+      *Background choices*
+      The background should support the subject, not fight with it. Look for bright spots, strong patterns, and messy areas in the background that might distract from your subject. A small shift left, right, up, or down can often remove a distracting object from behind someone's head or clean up the frame.
+
+      By paying attention to foreground and background, you can quickly improve the professionalism of your framing even without changing lenses or lighting.
+
+  - title: Horizon lines and level frames
+    images:
+      - assets/images/videography/framing_dutch_angle.avif
+    body: |
+      The **horizon line** or any strong horizontal line in your shot (like tables, shelves, or the edge of a wall) affects how stable your frame feels. In most cases, you want these lines to be level so the image feels balanced and not unintentionally tilted.
+
+      *Keeping the frame level*
+      Many cameras have a built-in level or horizon indicator you can turn on. Use it to make sure the shot is not leaning to one side unless you want that effect. A slightly crooked horizon is one of the fastest ways to make a shot look unpolished.
+
+      *Dutch angle (tilted frame)*
+      Sometimes filmmakers tilt the camera on purpose to create a **Dutch angle**. This makes the horizon slanted and can make the scene feel uneasy, unstable, or tense. Use this sparingly and deliberately, for example during a moment of confusion, stress, or danger.
+
+  - title: Putting it together - a basic framing checklist
+    images: []
+    body: |
+      When you set up a shot, you can quickly run through a simple framing checklist.
+
+      • **Subject placement:** Is the subject centered or off-center, and does that match the feeling you want? Could the rule of thirds make the shot clearer or more interesting?  
+      • **Headroom:** Is there a comfortable gap above the subject's head, or are you cutting off too much or leaving too much empty space?  
+      • **Look room:** If the subject is facing to one side, is there enough space in front of their face so the frame does not feel cramped?  
+      • **Foreground and background:** Is anything in front of the lens or behind the subject distracting, merging with the subject's head, or drawing attention away? Could a small move fix it?  
+      • **Lines and horizon:** Are strong lines in the scene helping to lead the eye towards the subject, and is the horizon level unless you want a tilted effect?
+
+      Good framing does not have to be complicated; it is mainly about making clear choices so the viewer's eye goes exactly where you want it to go and the shot feels intentional rather than accidental.
+  
+  - title: Links
+    images: []
+    body: |
+      Check out [Framing 101](https://youtu.be/tNg_DAGVEvQ) on PixelStudio's YouTube channel!
+
+---
+id: histogram
+name: Histogram
+coverImages:
+  - assets/images/videography/histogram_cover.avif
+sections:
+  - title: What a histogram shows
+    images: []
+    body: |
+      A histogram is a **graph of brightness**.
+
+      The **left side** of the graph represents the *dark* parts of the image (shadows). The **middle** represents *midtones* (most skin tones and normal objects). The **right side** represents the *bright* parts (highlights).
+      The **height of the graph** at any point shows how many pixels are at that brightness. A tall spike means “a lot of pixels at this brightness.” A low shape means “only a few pixels at this brightness.”
+
+      The histogram is not “good” or “bad” by itself; it depends on the scene. A dark scene will naturally have more information on the left, and a bright scene will have more on the right. The important thing is to avoid losing detail at the extreme ends unless you truly want that look.
+
+  - title: Reading the histogram for exposure
+    images: []
+    body: |
+      *Normal, balanced exposure (for many scenes):* The graph is **mostly in the middle**, with a gentle spread to both sides, and there are **no big spikes crushed against the far left or far right**. This often means you are keeping detail in both shadows and highlights.
+
+      *Underexposed (too dark):* The graph is pushed **towards the left side**, and you may see a spike touching the far left edge. This means many dark areas are so close to black that you may lose detail.
+      *Overexposed (too bright):* The graph is pushed **towards the right side**, and you may see a spike touching the far right edge. This means some bright areas are so close to pure white that you may lose detail.
+
+      When you see the graph **piling up at either end**, it usually means that part of the image has no detail left, and you cannot fully recover that information later in editing.
+
+  - title: Understanding clipping (lost detail)
+    images: []
+    body: |
+      **Clipping** happens when part of the image is too dark or too bright for the camera to record detail. On the histogram, clipping shows up as the graph pressing hard against the left or right edge.
+
+      *Shadow clipping (left side):* A lot of data squashed on the far left means parts of the image are pure black. In those areas, you may lose texture and detail, for example in dark hair, black clothing, or shadowy corners.
+
+      *Highlight clipping (right side):* A lot of data squashed on the far right means parts of the image are pure white. You may lose detail in bright areas such as clouds, white shirts, or shiny objects.
+      In many real scenes, a small amount of clipping is normal. Very bright lights or very deep shadows may clip and that is acceptable. The goal is to avoid **unwanted** clipping on important parts of the image, such as faces and key details.
+
+  - title: How to use the histogram while shooting
+    images: []
+    body: |
+      *Step 1 - Turn on the histogram display on your camera or monitor (if available).*
+      Many cameras can show a live histogram while you frame your shot. Some may only show it when reviewing a clip or still image.
+
+      *Step 2 - Frame your shot normally.*
+      Set up your composition and focus first. Then look at the histogram alongside the image.
+
+      *Step 3 - Adjust exposure based on what the histogram shows.*
+      If most of the graph is **crushed to the left**, try to **brighten** the image by opening the aperture (lower f-number), slowing down the shutter speed (if motion blur is acceptable), or raising the ISO (accepting some noise). If most of the graph is **crushed to the right**, try to **darken** the image by closing the aperture (higher f-number), using a faster shutter speed, or lowering the ISO.
+      Your goal is usually to keep the histogram **away from both edges** for important areas of the image, unless you intentionally want very deep blacks or very bright highlights.
+
+  - title: Special cases
+    images: []
+    body: |
+      *High contrast scenes (very bright and very dark areas together):* An example is a person standing in front of a bright window. The histogram may show **data spread widely across the whole graph**, and it is sometimes impossible to keep detail in both the brightest and darkest areas. In these cases, decide what matters more (usually the **person’s face**) and protect that part from clipping, even if other areas clip.
+
+      *Low contrast scenes (mostly midtones):* An example is a cloudy day with soft, even light. The histogram may form a **gentle hump in the middle** with little at the extremes. This is usually easy to expose. Just make sure it does not accidentally lean too far left (too dark) or too far right (too bright).
+
+      Remember that the histogram is a **tool**, not a strict rule. Use it together with your eyes, your monitor, and other aids (like zebras) to judge exposure more accurately.
+
+---
+id: shot_sizes_angles
+name: Shot Sizes and Angles
+coverImages:
+  - assets/images/videography/shot_size_angle_cover.avif
+
+sections:
+  - title: What shot size and angle do
+    images: []
+    body: |
+      *Shot size:* Decides how much of the subject's body is in the frame (head only, waist up, full body, etc.). It controls how close the audience feels to the subject (intimate vs. distant) and affects how much of the environment is visible.
+
+      *Shot angle:* Decides from which height and side you are filming (straight on, from above, below, behind). It affects how powerful, weak, equal, or mysterious a subject feels and helps support the emotion of the scene without any dialogue.
+
+      You usually choose **shot size first** (how much you want to show), then choose the **angle** that best fits the mood and message of the shot.
+
+  - title: Common shot sizes
+    images:
+      - assets/images/videography/shot_size_angle_1.avif
+    body: |
+      Here are common shot sizes, from widest to closest.
+
+      *1) Extreme wide shot (EWS)*
+      Shows a very large view of the scene, such as a landscape or a big room. The subject may be very small or not clearly visible. Use it to show *where* the scene is happening and to give a sense of scale.
+
+      *2) Wide shot (WS) or long shot*
+      Shows the full body of the subject from head to toe, with a lot of background. It is good for showing movement, such as a person walking in a space, and for when the environment is important to the story.
+
+      *3) Medium wide shot (MWS)*
+      Shows the subject from around the knees up. It keeps some environment but brings the viewer closer to the subject and is useful for group shots or when you want to see body language.
+
+      *4) Medium shot (MS)*
+      Shows the subject from around the waist up. This is a common shot for conversations and balances facial expressions with some body movement.
+
+      *5) Medium close-up (MCU)*
+      Shows the subject from around the chest or shoulders up. It focuses more on the face while still giving a little sense of the body and is great for interviews and most dialogue scenes.
+
+      *6) Close-up (CU)*
+      Shows only the head or a specific part of the subject (for example, just the face). It highlights emotion, details, and reactions and is used to draw strong attention to what the subject is feeling.
+
+      *7) Extreme close-up (ECU)*
+      Shows a very small part of the subject, such as eyes, hands, or an object. It removes almost all background information and is used to highlight important details or create tension and focus.
+
+  - title: When to choose each shot size
+    images: []
+    body: |
+      *Use wider shots (EWS, WS) when:*
+      You want to show **where** the scene takes place. Movement and environment matter a lot (for example, action scenes or crowd scenes). You are starting a scene and want the viewer to understand the location.
+
+      *Use medium shots (MWS, MS) when:*
+      You want a balance of body language and facial expression. Characters are talking and you want to see how they react to each other. You need a “normal” view that feels natural and comfortable.
+
+      *Use closer shots (MCU, CU, ECU) when:*
+      You want the viewer to feel more connected to the character's **emotions**. You are showing important details (a key, a phone screen, facial reactions). You want to increase tension or make a moment feel more intense.
+
+      A simple way to think about it is: **Wide** for *“where”*, **medium** for *“what is happening”*, and **close** for *“how it feels”*.
+
+  - title: Common shot angles
+    images:
+      - assets/images/videography/shot_size_angle_1.avif
+    body: |
+      Shot angle changes the **feeling** of the shot even when the size stays the same.
+
+      *1) Eye-level angle*
+      The camera is at the same height as the subject's eyes. This feels natural and neutral, like how we see people in real life. It is a good default angle for most dialogue and interviews.
+
+      *2) High angle*
+      The camera looks down at the subject from above. This can make the subject look smaller, weaker, or more vulnerable. It is useful when a character is in trouble, alone, or overwhelmed.
+
+      *3) Low angle*
+      The camera looks up at the subject from below. This can make the subject look powerful, confident, or threatening. It is used to show strength, authority, or importance.
+
+      *4) Over-the-shoulder shot (OTS)*
+      The camera is behind one person, looking at another person or an object, and you see the back of the first person's head and shoulder in the frame. This is common in conversations to show the point of view of one character while still including the other.
+
+      *5) Point-of-view shot (POV)*
+      Shows what a character would see through their own eyes. The camera replaces the character's eyes. This is used to make the audience feel like they are in the character's position.
+
+      *6) Top-down shot (bird's-eye view)*
+      The camera is directly above the subject, looking straight down. This makes the scene feel more abstract, distant, or carefully arranged and is useful for showing patterns, maps, or complex blocking (where everyone stands).
+
+  - title: Combining size and angle for storytelling
+    images: []
+    body: |
+      You can mix different sizes and angles in the same scene to guide emotions.
+
+      *Example 1 - Showing power change in a conversation*
+      Start with both characters at eye level in medium shots. When one character gains control, move to a slightly **low angle** on that character and use a slightly **high angle** on the weaker character.
+
+      *Example 2 - Building emotion*
+      Start a scene with a **wide shot** to show where you are. Move to **medium shots** as the conversation grows more personal. End with **close-ups** when the emotions peak or a secret is revealed.
+
+      *Example 3 - Following a character*
+      Use a medium or wide shot from behind as they walk into a new place. Switch to an **over-the-shoulder** shot when they talk to someone. Use a **close-up** when they react to surprising news.
+
+      By planning your shot sizes and angles in advance, you can create smoother edits and more engaging videos that feel intentional rather than random.
+
+  - title: Links
+    images: []
+    body: |
+      Check out [Framing 101](https://youtu.be/tNg_DAGVEvQ) on PixelStudio's YouTube channel!
+
+---
+id: types_of_lenses
+name: Types of Lenses
+coverImages:
+  - assets/images/videography/types_of_lenses_cover.avif
+
+sections:
+  - title: The main lens types
+    images: []
+    body: |
+      Most lenses you will use for video fall into a few simple groups: **ultra-wide**, **wide**, **standard**, **telephoto**, and **prime vs. zoom**. These groups are mostly based on the **mm number**, which controls how wide or tight the view looks.
+
+      - *Ultra-wide* lenses show a lot of the scene and make spaces feel large. Example: **Sony FE 4 / 12-24 G** and **Canon EF 14mm f/2.8L II USM**.
+      - *Wide* lenses still show environment but look less extreme than ultra-wide. Example: **Sony FE 4 / 16-35** and **Canon CN-E 24mm T1.5 L F**.
+      - *Standard* lenses feel natural for general filming and everyday storytelling. Example: **Sony FE 2.8 / 24-70 GM II** and **Canon 24-70mm Ultrasonic**.
+      - *Telephoto* lenses make far subjects look close and help isolate the subject from the background. Example: **Sony FE 2.8 / 70-200 GM OSS II** and **Canon EF 70-200mm f/2.8L IS II USM**.
+
+  - title: How to interpret the mm number
+    images: []
+    body: |
+      The **mm number** tells you how wide or tight the lens view is. Smaller mm numbers look **wider** and show more environment. Larger mm numbers look **tighter** and show less environment.
+
+      *Examples*
+      - **12mm** on the Sony FE 12-24 shows a very wide view and is useful for rooms and big locations.
+      - **24mm** on a 24-70 zoom is wide and is useful for context shots, groups, and small spaces.
+      - **50mm** on the Sony FE 1.4 / 50 is a "normal-looking" view that is often great for portraits and interviews.
+      - **200mm** on a 70-200 zoom is very tight and is useful for stage events, sports, and distant subjects.
+
+      For zoom lenses, a range like **24-70mm** means the lens can change between those views. For prime lenses, a single number like **35mm** or **50mm** means the lens does not zoom.
+
+  - title: How to interpret the aperture number
+    images: []
+    body: |
+      The aperture number is usually written like **f/2.8**, **f/4**, or **f/1.4**. A smaller number generally means the lens can open wider to let in **more light** and can create **more background blur**. A larger number generally means less light and usually a background that looks more in focus.
+
+      *Examples*
+      - **f/4** on the Sony FE 4 / 12-24 G and Sony FE 4 / 16-35 is a steady, practical aperture for well-lit scenes and general filming.
+      - **f/2.8** on the Sony FE 2.8 / 24-70 GM II and 70-200 lenses helps more in low light and creates more background blur than f/4.
+      - **f/1.4** on the Sony FE 1.4 / 50 and Canon EF 35mm f/1.4L allows very low-light filming and strong background blur, but makes focusing more sensitive.
+
+      Some cinema lenses use a number like **T1.5**, such as the Canon CN-E 24mm T1.5. You can treat this as an aperture number that also represents a very wide opening.
+
+  - title: When to use ultra-wide lenses
+    images: []
+    body: |
+      Use **ultra-wide** lenses when the environment is part of the story and you want the viewer to feel the size of the space. They are useful for **architecture**, **interiors**, **wide establishing shots**, and filming in **tight rooms**.
+
+      *Tips for better ultra-wide results*
+      - Keep important faces closer to the center of the frame so they do not look stretched.
+      - Keep the camera level when filming rooms and buildings so lines do not look accidentally tilted.
+      - Check the edges and corners, because ultra-wide shots easily include distractions.
+
+  - title: When to use wide lenses
+    images: []
+    body: |
+      Use **wide** lenses when you want context but do not want the extreme look of ultra-wide. Wide lenses are good for **walkthroughs**, **documentary-style filming**, **small spaces**, and shots where you want to be close to the action while still showing the setting.
+
+      *Tips for better wide results*
+      - Step back slightly if faces look stretched.
+      - Keep backgrounds clean because wide views still show a lot of the scene.
+      - Use the rule of thirds and good headroom so the shot does not feel "messy wide."
+
+  - title: When to use standard zoom lenses
+    images: []
+    body: |
+      Use **standard zoom** lenses when you need flexibility and you want to cover many shot sizes quickly without swapping lenses. They are strong for **events**, **interviews**, **travel**, and general videography, because you can go from a wide context shot to a tighter subject shot in seconds.
+
+      *Tips for better standard zoom results*
+      - Use the wide end for context and the longer end for faces and details.
+      - Avoid zooming during the shot unless it is a deliberate style choice; it often looks cleaner to cut between shot sizes.
+      - If the background is distracting, zoom in and simplify what is behind the subject.
+
+  - title: When to use telephoto zoom lenses
+    images: []
+    body: |
+      Use **telephoto** lenses when you want to isolate the subject, make the background look softer, or film from farther away. They are excellent for **sports**, **stage performances**, **events**, and **portraits** with strong separation from the background.
+
+      *Tips for better telephoto results*
+      - Move gently because small shakes look bigger at longer focal lengths.
+      - Stabilization helps, but for long takes it is still smart to use a tripod or monopod when possible.
+      - Plan your distance so you can keep good audio, because being far away can hurt sound if you rely on camera mic audio.
+
+  - title: Prime lenses vs. zoom lenses
+    images: []
+    body: |
+      A **prime lens** has one focal length, such as **50mm** or **35mm**, and you change framing by moving the camera. A **zoom lens** has a range, such as **12-24mm**, **16-35mm**, **24-70mm**, or **70-200mm**, and you can change framing by zooming.
+
+      *Why primes are useful*
+      Many primes have wider apertures like **f/1.4**, which helps in low light and creates strong background blur.
+
+      *Why zooms are useful*
+      Zooms are faster to work with in real shoots because you can react quickly without swapping lenses.
+
+  - title: Basic lens care and handling
+    images: []
+    body: |
+      *Cap your lens when not in use*
+      Keep the **front cap** and **rear cap** on whenever the lens is not on a camera. This reduces dust, fingerprints, and accidental scratches.
+
+      *Avoid dust during lens changes*
+      Change lenses quickly, and avoid doing it in windy or dusty areas if possible. Keep a rear cap ready so you can cap the lens immediately after removal.
+
+      *Clean safely:*
+      Use a blower first to remove dust. Then use a clean microfiber cloth for smudges. Avoid wiping grit across the glass, because it can leave marks.
+
+      *Store with padding:*
+      Keep lenses in padded compartments so they do not knock into other gear. Do not store lenses loose in a bag, because impacts can damage the exterior and the internal alignment.
+
+      *Handle heavier lenses with support:*
+      Telephoto zooms can be heavier. Support the lens and camera carefully to avoid stressing the mount during carrying and setup.
+
+  - title: Quick choosing guide for common situations
+    images: []
+    body: |
+      If you need one fast way to decide, use this simple idea: **wide shows the world, telephoto shows the subject, standard balances both**.
+
+      *Tight room or interior location:* Ultra-wide or wide (e.g. **12-24mm**, **14mm**, or **16-35mm**).
+
+      *General coverage and flexibility:* Standard zoom (e.g. **24-70mm**).
+
+      *Portraits, interviews, and subject emphasis:* 50mm or 70mm end of a 24-70, or longer focal lengths when you have space.
+
+      *Stage, sports, or distant subjects:* Telephoto (e.g. **70-200mm**).
+
+      *Low light with strong subject separation:* Wide-aperture primes (e.g. **f/1.4** lenses) when you can control focus and distance.
+
+---
+id: video_codecs
+name: Video Codecs
+coverImages:
+  - assets/images/videography/video_codecs_cover.avif
+sections:
+  - title: What is a video codec?
+    images: []
+    body: |
+      When you record or export a video, you are not just saving raw frames; the video is **compressed** to make the file smaller. A *video codec* is the set of rules used to squeeze the video into a smaller file by removing repeated or less important data and then to unpack the video later so it can be played back on a screen.
+
+      You can think of a codec as a **language** that both the recorder and the player must understand. If your computer, phone, or video platform does not support a codec, it cannot play or edit the video properly. Common examples of video codecs are **H.264**, **H.265**, and **ProRes**.
+
+  - title: Codec vs. file format (container)
+    images: []
+    body: |
+      Many people confuse codecs with file types like **.mp4** or **.mov**.
+
+      A **codec** is *how* the video is compressed and stored inside the file. The **file format** (often called the *container*) is the “box” that holds the video, audio, and other data such as subtitles and timecode.
+
+      For example, an **.mp4** file might contain video compressed with **H.264**, while a **.mov** file might contain **ProRes** or **H.264**, depending on your settings. This means two .mp4 files can behave very differently if they use different codecs or settings. When choosing settings, you should pay attention to both the **container** (*mp4, mov*) and the **codec** (*H.264, ProRes*, etc.).
+
+  - title: Lossy vs. less-compressed codecs (basic idea)
+    images: []
+    body: |
+      Most practical codecs for everyday video use are **lossy**, which means they throw away some information that the viewer is unlikely to notice in order to make the file smaller.
+
+      *Lossy codecs:* They make files smaller, are great for delivery and streaming (for example, online videos), and can lose quality if you export again and again using the same lossy codec.
+      *Less-compressed or editing-friendly codecs:* They keep more of the original information, make larger files, but are easier for editing software to handle and are good for color grading and heavy post-production work.
+
+      You can think of **lossy codecs** as *“final delivery”* and **editing-friendly codecs** as *“working copies”* that are easier to cut and adjust.
+
+  - title: Common codecs - simple overview
+    images: []
+    body: |
+      *1) H.264 (also called AVC)*
+      This codec is very common and widely supported. It produces relatively small file sizes with good quality. It is great for recording on many cameras and phones and for uploading to online platforms such as video sharing sites. It is not ideal for heavy color correction or repeated re-encoding because it is more compressed and harder for computers to decode during editing.
+
+      *2) H.265 (also called HEVC)*
+      This codec is newer than H.264 and can give similar quality to H.264 with smaller file sizes, or better quality at the same size. It is good for high-resolution formats (like **4K**) where storage space is a concern. Not all devices and editing programs handle it smoothly, and some older systems may struggle.
+
+      *3) ProRes (Apple ProRes)*
+      This is a family of codecs designed for **editing**. It uses less compression, so files are bigger than H.264 or H.265, but it is easier for editing software to play back smoothly. It is good for projects that need color grading, visual effects, or multiple re-exports. It is commonly stored inside **.mov** files.
+
+      *4) Other editing codecs (for example DNxHD, DNxHR)*
+      These work similarly to ProRes but are developed by other companies. They are designed to be editing-friendly with larger files and smoother playback. They are often used in professional workflows and supported by major editing software.
+
+  - title: Bitrate, resolution, and frame rate - how they relate to codecs
+    images: []
+    body: |
+      Besides the codec itself, three other settings affect quality and file size: **resolution**, **frame rate**, and **bitrate**.
+
+      **Resolution** is the size of the video in pixels (for example, 1920x1080 or 3840x2160). Higher resolution means more detail but larger files. For many projects, *Full HD* (1920x1080) is enough; *4K* gives more detail and flexibility for cropping.
+
+      **Frame rate** is how many frames are shown per second (for example, 24, 25, 30, 50, or 60). Higher frame rates can make motion look smoother but create more data. Choose based on the look you want and the standard in your region or project.
+
+      **Bitrate** is how much data is used per second of video. Higher bitrate usually means better quality but bigger file sizes. If bitrate is too low, you may see blocky areas, smearing, or loss of detail, especially in fast motion or complex textures.
+
+      The codec decides how **efficiently** this data is used, so two videos with the same resolution, frame rate, and bitrate can still look different depending on the codec.
+
+  - title: Choosing a codec for different stages of a project
+    images: []
+    body: |
+      You can use different codecs at different stages of your workflow.
+
+      *1) Recording on camera*
+      Many cameras record in **H.264** or **H.265** by default because this keeps files small and is widely supported. Some higher-end cameras can record in **ProRes** or other editing codecs, which creates bigger files but can be better for demanding post-production.
+
+      *2) Editing*
+      If your computer struggles with your camera files (for example, H.265 4K), you can convert (*transcode*) them into an editing-friendly codec such as **ProRes**. This makes editing smoother but uses more storage space. If your system handles your camera codec well, you can often edit directly.
+
+      *3) Exporting for delivery*
+      For uploading online or sharing with clients, **H.264** in an **.mp4** container is a common and safe choice. Choose a suitable bitrate (higher for 4K, medium for 1080p). For further editing by someone else, export using an editing-friendly codec (such as **ProRes** or similar) so they have more room to adjust color and effects.
+
+  - title: Simple recommendations for beginners
+    images: []
+    body: |
+      If you are not sure what to choose, here are simple starting points.
+
+      *When recording*
+      Use your camera’s default high-quality setting, often **H.264** in **.mp4**. If your camera offers “high quality” or “all-intra” modes and storage is not an issue, choose those for easier editing and slightly better quality.
+
+      *When editing and your computer is slow*
+      Consider converting your footage to an editing codec such as **ProRes** or another editing-friendly format supported by your software. Delete the converted files only after you have finished the project and checked your final exports.
+
+      *When exporting for online use*
+      Use **H.264** in an **.mp4** file. Use the same resolution and frame rate you edited in (for example, 1920x1080 at 25 fps). Start with a medium-to-high bitrate (for example, around *10-20 Mbps* for 1080p) and adjust if files are too big or quality is too low.
+
+      Remember that the **“best” codec** depends on what you are doing. For recording and quick sharing, smaller files with **H.264** or **H.265** are common. For serious editing and color work, larger files with editing-friendly codecs like **ProRes** are often preferred.
+
+---
+id: white_balance
+name: White Balance
+coverImages:
+  - assets/images/videography/white_balance_cover.avif
+sections:
+  - title: Why white balance matters
+    images: []
+    body: |
+      Our eyes and brain are very good at adapting to different lighting conditions, so a white sheet of paper looks white whether you are indoors under yellow light or outdoors in blue daylight.
+
+      Cameras are not as smart by default. Without the right **white balance**, the camera may make indoor scenes look **too orange or yellow**, outdoor scenes look **too blue**, and skin tones look unnatural (too red, too green, or washed out).
+
+      Proper white balance helps to keep skin tones natural, make different shots look like they belong in the same world, and reduce the amount of color correction needed in editing.
+
+  - title: Color temperature and Kelvin (simple explanation)
+    images: []
+    body: |
+      Many cameras describe white balance using **Kelvin (K)**, a scale of color temperature. You do not need to memorize numbers, but these ranges are helpful. 
+
+      Around **2700K-3200K** is **warm indoor light**, typical of household bulbs and some indoor lamps where light looks more orange or yellow. Around **5000K-6500K** is **daylight and cloudy daylight**, typical of outdoor scenes in the shade or under the sun where light looks more neutral to slightly blue.
+
+      As the Kelvin number **goes up**, the light **looks cooler (bluer)**. As the Kelvin number **goes down**, the light **looks warmer (more orange)**. When you set white balance, you are telling the camera, “The light in this scene is roughly this color temperature; please correct it so whites look neutral.”
+
+  - title: Common white balance modes on cameras
+    images: []
+    body: |
+      Most cameras offer several **white balance presets** that are quick choices based on typical lighting conditions.
+
+      **Auto White Balance (AWB)** lets the camera guess the right balance for you. It is convenient and often good enough, but it can change from shot to shot and cause color shifts between clips.
+
+      **Daylight / Sun** is for shooting outside in direct sunlight and keeps outdoor scenes looking natural without going too blue or too warm.
+
+      **Cloudy / Shade** is for shooting outside on overcast days or in the shade. It adds a bit of warmth to counter the naturally cooler, bluer light.
+
+      **Tungsten / Incandescent** is for warm indoor lights (yellow or orange bulbs). It pulls the orange tone back towards neutral.
+
+      **Fluorescent** is for older fluorescent lights, which can be greenish, and it adds correction to make colors look more natural.
+
+      **Custom / Kelvin / Manual** lets you pick a specific Kelvin value or measure the light using a white or gray card, which is the most precise option when you want consistent, repeatable results.
+
+  - title: Setting white balance in simple steps
+    images: []
+    body: |
+      *Method 1 - Use presets (fast and easy):* Look at your main light source (sun, indoor lamps, mixed light) and pick the preset that most closely matches, such as **Daylight**, **Cloudy**, or **Tungsten**. Check your monitor. If the image looks too blue, try a warmer preset. If it looks too orange, try a cooler preset.
+
+      *Method 2 - Use Auto White Balance (AWB) with care:* Turn on **AWB** when you move quickly between different lighting conditions, but watch out for changes during a single shot. For example, if someone walks past a bright object, the camera might suddenly shift the colors. If you notice AWB changing too much, switch to a fixed preset or manual mode.
+
+      *Method 3 - Set a custom Kelvin value:* If your camera has a Kelvin option, start with around **3200K** for warm indoor lights and around **5600K** for daylight. Adjust slightly warmer or cooler while looking at a white object or skin tone until it looks natural.
+
+  - title: Using a white or gray reference (basic idea)
+    images: []
+    body: |
+      For more accurate white balance, you can use a **white card** or **neutral gray card**.
+
+      Place the card where your subject will be, facing the main light source. Fill the frame with the card or follow your camera's instructions for a custom white balance reading. Then tell the camera to set white balance based on that reference. 
+
+      This works well when you have time to set up, such as for interviews and planned shots, when you need multiple cameras to match each other, and when you want consistent color across a whole project. 
+
+      Even if you do not use a card on every shoot, understanding this method helps you see white balance as something you can **control**, not just something that “happens.”
+
+  - title: Matching shots and avoiding color shifts
+    images: []
+    body: |
+      *Keep white balance consistent within a scene:* If you are recording a conversation or an interview, avoid changing white balance in the middle. Lock in a preset or Kelvin value that works and stick with it for that setup.
+
+      *Watch out for mixed lighting:* Mixed lighting happens when different light sources with different colors hit your subject at the same time, for example daylight from a window and warm indoor lamps. This can cause one side of the face to look warm and the other side to look cool. Try to simplify the lighting by turning off one source or adding gels or filters if possible.
+
+      *Think about your final look:* You can intentionally warm up or cool down your white balance to create a mood, as long as skin tones remain believable. A slightly **warmer** balance can make scenes feel cozy or friendly. A slightly **cooler** balance can make scenes feel distant, clinical, or tense.
+
+      The main goal is to make white balance a **deliberate choice** instead of something left entirely to chance.
+
+---
+id: zebra_stripes
+name: Zebra Patterning (Zebra Stripes)
+coverImages:
+  - assets/images/videography/zebra_pattern_cover.avif
+sections:
+  - title: What zebra stripes show you
+    images: []
+    body: |
+      Zebra stripes are **warning markings** overlaid on your image. They appear on areas that are at or above a brightness level you set (for example, a certain percentage or code value, depending on the camera) and help you see at a glance which parts of the image might be **too bright** and in danger of losing detail.
+
+      You can think of zebras as a **highlighter for bright areas**. No stripes means the area is below the warning level. Some stripes means the area is at or near the level you are watching. Heavy stripes across important areas are a sign you may need to adjust exposure.
+
+  - title: Typical zebra settings and uses
+    images: []
+    body: |
+      Exact numbers and options vary by camera, but many systems let you select a **zebra level**, and there are two common ways to use it.
+
+      **Highlight protection:** Set zebras to trigger near the point where your camera's highlights start to clip (for example, around 95-100% on some scales). When you see stripes over important bright areas, such as clouds or white clothing, you know you are close to losing detail.
+
+      **Skin tone monitoring:** Some operators set zebras to a level that roughly matches healthy skin brightness for their camera profile. They then adjust exposure until zebras *just begin* to appear on the brightest parts of the face, such as the forehead or cheek highlights, and back off slightly if they look too strong. This helps keep faces well exposed even in changing light.
+
+      Check your camera manual to see exactly what zebra levels mean on your specific model, as different brands and picture profiles can behave slightly differently.
+
+  - title: Using zebras with faces and highlights
+    images: []
+    body: |
+      *For faces (interviews and talking heads):* Turn on zebras and set them to a level recommended for skin in your camera's documentation or by experienced users of that system. Light your subject as you normally would. Adjust exposure until **zebra stripes just start to appear** on the brightest parts of the face, then back off slightly if they look too strong. This helps prevent faces from being too dark or blown out, especially in bright locations.
+
+      *For bright highlights (windows, sky, white objects):* Set zebras to trigger near the highlight clipping point for your camera. Watch the screen. If the sky or a window is fully covered in stripes, those areas are likely overexposed. Decide whether that is acceptable for the shot. A blown-out window might be fine, but a blown-out white shirt usually is not. If you want to save detail, reduce exposure until the stripes mostly disappear from the important highlight areas.
+
+      Zebras give you a **more objective guide** than your eyes alone, especially in bright environments where your screen may be hard to see.
+
+  - title: Combining zebras with histogram and monitoring
+    images: []
+    body: |
+      Zebras are most powerful when used together with other tools.
+
+      The **histogram** shows the overall spread of brightness in the image and helps you see if shadows or highlights are being crushed at the extremes. 
+
+      **Zebra stripes** focus on the **brightest parts** and warn you when they get close to clipping, which is useful for protecting key areas like faces, white clothing, and important highlights. 
+
+      Your **monitor or viewfinder** shows you the *visual feel* of the image, including contrast, mood, and color, so you can confirm that the technical exposure also looks good creatively.
+
+      Together, these tools help you make **confident exposure decisions**, even when conditions are changing or your screen is hard to see, such as in bright daylight.
+
+  - title: Practical habits when using zebra stripes
+    images: []
+    body: |
+      *Set zebras before you start a shoot:* Decide whether you are mainly using them for **skin** or for **highlight protection**. Choose a zebra level that matches that goal and stick with it during the shoot unless you have a clear reason to change.
+
+      *Avoid relying on zebras alone:* Zebras only show you areas at or above a chosen brightness level. They do not tell you if the rest of the image is too dark or if your contrast is too high, so always check the **overall image** and, if possible, the **histogram** as well.
+
+      *Remember that zebras do not record:* Stripes are only a **visual guide** on your display; they never appear in the final video file. You can safely use them as much as you like without affecting your footage.
+
+      By building the habit of glancing at your zebra stripes while adjusting exposure, you reduce the chances of coming back from a shoot with faces or key details accidentally overexposed.

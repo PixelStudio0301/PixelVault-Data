@@ -1,0 +1,11 @@
+"Hello worl":
+  lens_canon_24-70mm:
+    c: false
+    q: 1
+  lens_canon_24mm_t1.5:
+    c: true
+    q: 1
+  light_aputure_200x_s:
+    c: true
+    q: 1
+"www":
