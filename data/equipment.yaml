@@ -2078,3 +2078,23 @@ related:
   - cam_sony_fx3
   - cam_sony_a73
   - tripod_manfrotto_befree
+---
+id: canon_milk_tea
+name: Canon milk tea
+brand: Canon
+category: Lens
+coverImages:
+  - images/equipment/canon_milk_tea_cover_1.webp
+description: ""
+sections:
+  - title: title
+    images:
+      - images/equipment/canon_milk_tea_section1_1.webp
+    body: |
+      normal
+      **bold**
+      *italic*
+      • gg
+related: []
+quantity: 1
+storage: A
