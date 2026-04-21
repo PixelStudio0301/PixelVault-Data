@@ -2069,16 +2069,3 @@ sections:
 related: []
 quantity: 3
 storage: In my belly
----
-id: chinese_guy
-name: Chinese guy
-category: Dude
-brand: SG
-coverImages:
-  - images/equipment/chinese_guy_cover_1.webp
-description: ""
-sections: []
-related: []
-quantity: 1
-storage: pasir ris
-no_guide: true
