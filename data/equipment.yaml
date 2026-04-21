@@ -2054,19 +2054,6 @@ related:
   - cam_sony_a73
   - tripod_manfrotto_befree
 ---
-id: chg
-name: Chg
-category: Ccc
-brand: Ccc
-coverImages:
-  - images/equipment/chg_cover_1.webp
-description: ""
-sections: []
-related: []
-quantity: 1
-storage: c
-no_guide: true
----
 id: chg2
 name: Chg2
 category: Ccc
