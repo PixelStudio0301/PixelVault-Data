@@ -2066,3 +2066,16 @@ related: []
 quantity: 1
 storage: c
 no_guide: true
+---
+id: chg2
+name: Chg2
+category: Ccc
+brand: Ccc
+coverImages:
+  - images/equipment/chg2_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: c
+no_guide: true
