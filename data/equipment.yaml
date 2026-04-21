@@ -2053,3 +2053,16 @@ related:
   - cam_sony_fx3
   - cam_sony_a73
   - tripod_manfrotto_befree
+---
+id: cat_milk_tea
+name: Cat Milk Tea
+category: Tea
+brand: Catty
+coverImages:
+  - images/equipment/cat_milk_tea_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: belly
+no_guide: true
