@@ -2053,3 +2053,16 @@ related:
   - cam_sony_fx3
   - cam_sony_a73
   - tripod_manfrotto_befree
+---
+id: test_1
+name: test 1
+category: Test
+brand: Test
+coverImages:
+  - images/equipment/test_1_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: t
+no_guide: true
