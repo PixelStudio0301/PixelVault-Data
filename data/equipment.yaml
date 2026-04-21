@@ -2066,3 +2066,22 @@ related: []
 quantity: 1
 storage: t
 no_guide: true
+---
+id: milk_tea
+name: Milk tea
+brand: Thai
+category: Tea
+coverImages:
+  - images/equipment/milk_tea_cover_1.webp
+  - images/equipment/milk_tea_cover_2.webp
+description: ""
+sections:
+  - title: Epic
+    images:
+      - images/equipment/milk_tea_section1_1.webp
+      - images/equipment/milk_tea_section1_2.webp
+    body: |
+      Teaaaaaa
+related: []
+quantity: 4
+storage: 4
