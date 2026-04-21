@@ -2082,7 +2082,7 @@ coverImages:
   - images/equipment/chagee_lime_tea_cover_1.webp
 description: ""
 sections:
-  - title: hello
+  - title: hello World
     images: []
     body: |
       yup
