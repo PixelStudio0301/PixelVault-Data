@@ -59,7 +59,6 @@ related:
   - audio_zoom_podtrak_p4
   - audio_zoom_f8
   - audio_sennheiser_g4
-
 ---
 id: audio_sennheiser_g4
 name: Sennheiser EW 500 G4 Wireless
@@ -132,7 +131,6 @@ sections:
 # related equipment cards (by id)
 related:
   - audio_zoom_f8
-
 ---
 id: audio_zoom_f8
 name: Zoom F8
@@ -217,7 +215,6 @@ sections:
 # related equipment cards (by id)
 related:
   - audio_sennheiser_g4
-
 ---
 id: audio_zoom_podtrak_p4
 name: Zoom PodTrak P4
@@ -302,7 +299,6 @@ related:
   - audio_sennheiser_g4
   - audio_rode_wireless_go
   - audio_zoom_f8
-
 ---
 id: cam_canon_hfg70
 name: Canon LEGRIA HF G70
@@ -461,7 +457,6 @@ sections:
       **Play back clips**
       • Switch the power switch to **MEDIA** to enter playback.
       • Tap a clip thumbnail to start playback, and tap the screen to show playback controls.
-
 ---
 id: cam_canon_xf605
 name: Canon XF605
@@ -613,7 +608,6 @@ related:
   - tripod_sachtler_flow75
   - mic_sennheiser_mke600
   - light_aputure_amaran
-
 ---
 id: cam_osmo_pocket_3
 name: DJI Osmo Pocket 3
@@ -688,7 +682,6 @@ related:
   - cam_sony_fx3
   - cam_sony_a73
   - mic_sennheiser_g4
-
 ---
 id: cam_sony_a73
 name: Sony A7 III
@@ -779,7 +772,6 @@ related:
   - cam_sony_fx3
   - tripod_sachtler_flow75
   - tripod_manfrotto_befree
-
 ---
 id: cam_sony_fx3
 name: Sony FX3
@@ -850,7 +842,6 @@ related:
   - cam_sony_a73
   - tripod_sachtler_flow75
   - tripod_manfrotto_befree
-
 ---
 id: lens_canon_14mm_f2.8
 name: Canon EF 14mm f/2.8L II USM
@@ -886,7 +877,6 @@ sections:
       - Avoid using it as a default lens for people close-ups, because faces can look distorted.
       - Avoid cluttered backgrounds, because wide lenses reveal everything.
       - Avoid tilting without meaning to; tilts are very noticeable with ultra-wide views.
-
 ---
 id: lens_canon_24-70mm
 name: Canon 24-70mm Ultrasonic
@@ -922,7 +912,6 @@ sections:
       - Avoid staying wide for close faces, because it can make facial features look slightly stretched.
       - Avoid relying on zoom to replace good positioning; where you stand often matters more than the focal length.
       - Avoid frequent lens changes in dusty areas; if this lens can cover the shot, using it can reduce dust problems.
-
 ---
 id: lens_canon_24mm_t1.5
 name: Canon CN-E 24mm T1.5 L F
@@ -958,7 +947,6 @@ sections:
       - Avoid standing extremely close to faces at 24mm if facial features start to look stretched.
       - Avoid shooting wide open in scenes with lots of movement unless you have a plan to hold focus.
       - Avoid messy frame edges; wide lenses make unwanted objects easy to miss.
-
 ---
 id: lens_canon_35mm_f1.4
 name: Canon EF 35mm f/1.4L USM
@@ -994,7 +982,6 @@ sections:
       - Avoid using f/1.4 in fast-moving scenes unless you can maintain focus confidently.
       - Avoid placing important details at the very edge of frame if the edge looks stretched or distracting.
       - Avoid forgetting the background; wide primes still include enough environment to show clutter.
-
 ---
 id: lens_canon_70-200mm_f2.8
 name: Canon EF 70-200mm f/2.8L IS II USM
@@ -1030,7 +1017,6 @@ sections:
       - Avoid using extreme telephoto handheld while tired; small shakes become obvious quickly.
       - Avoid standing too far back without checking audio, because distance helps visuals but can hurt sound if you rely on camera mic audio.
       - Avoid zooming constantly during the take unless the zoom is part of the planned style.
-
 ---
 id: lens_sony_12-24mm_f4
 name: Sony FE 4 / 12-24 G
@@ -1068,7 +1054,6 @@ sections:
       - Avoid placing a person's face at the far left or far right edge, because it can look unnaturally stretched.
       - Avoid shooting in cluttered spaces without checking corners, because wide lenses easily capture distracting items.
       - Avoid strong tilts unless you want a stylized look, because it can make a room feel "falling over" by accident.
-
 ---
 id: lens_sony_16-35mm_f4
 name: Sony FE 4 / 16-35
@@ -1104,7 +1089,6 @@ sections:
       - Avoid getting too close to faces at 16mm, because facial features can look stretched.
       - Avoid ignoring the background; wide lenses capture a lot of messy detail.
       - Avoid assuming wide automatically looks "cinematic"; composition still matters.
-
 ---
 id: lens_sony_24-70mm_f2.8
 name: Sony FE 2.8 / 24-70 GM II
@@ -1142,7 +1126,6 @@ sections:
       - Avoid staying at only one focal length all day, because variety helps your edit feel more intentional.
       - Avoid zooming just because you can; it is often better to cut between shot sizes rather than zoom during the take.
       - Avoid shooting too wide for close faces, because 24mm close-ups can make faces look stretched.
-
 ---
 id: lens_sony_50mm_f1.4
 name: Sony FE 1.4 / 50
@@ -1178,7 +1161,6 @@ sections:
       - Avoid using f/1.4 in fast-moving scenes unless you are confident in your focus, because the sharp focus zone can be very thin.
       - Avoid standing too close for face shots, because it can exaggerate facial features; take a small step back if the face looks too "pushed forward."
       - Avoid forgetting that you cannot zoom; plan where you can stand before you start rolling.
-
 ---
 id: lens_sony_70-200mm_f2.8
 name: Sony FE 2.8 / 70-200 GM OSS II
@@ -1214,14 +1196,13 @@ sections:
       - Avoid panning too fast, because telephoto movement can look jerky and hard to follow.
       - Avoid filming long handheld takes at 200mm without support if possible, because fatigue will show in the footage.
       - Avoid forgetting your minimum focus distance; if you are too close, it may not focus.
-
 ---
 id: light_aputure_200x_s
 name: Aputure Amaran 200X S
 brand: Aputure
 category: Light
-quantity: 1
-storage: "Tripod Shelf & Cabinet 4"
+quantity: 12
+storage: "Tripod Shelf & Cabinet 4A"
 
 coverImages:
   - images/equipment/light_aputure_200x_s_cover.avif
@@ -1343,7 +1324,6 @@ sections:
       Loosen the handle and fold the tripod connector to a horizontal position. Put the protective cover back on the front, place the grey styrofoam on the rim, and store the light in the rectangular bag.
 
 related: []
-
 ---
 id: light_felloni_tecpro_d50ho
 name: Dedolight Felloni Tecpro TP-LONI-D50HO
@@ -1449,7 +1429,6 @@ sections:
       **Cable care**
       • Coil cables in large loops (not tight coils) to reduce cable stress.
       • Avoid sharp bends near the connector ends.
-
 ---
 id: light_godox_ml60
 name: Godox ML60 II Bi
@@ -1613,7 +1592,6 @@ sections:
       **Battery setup is not working:** If using the NP-F battery kit, confirm that two NP-F batteries are installed, not just one.
       **Cannot control from app:** Turn Bluetooth on in the light menu, then try a Bluetooth reset if needed.
       **Light becomes dimmer by itself:** Check for a high temperature warning, because the light may be reducing output to protect itself.
-
 ---
 id: light_manfrotto_croma2
 name: Manfrotto CROMA2 LED Light
@@ -1685,7 +1663,6 @@ sections:
       **Before packing:** Turn the light off, remove the battery, and disconnect any power cable.
       **Transport:** If the light is on a stand, remove it from the stand before moving long distances to reduce the chance of it falling.
       **Storage environment:** Avoid leaving it in high heat (for example, inside a parked car in the sun).
-
 ---
 id: light_nanlite_pavotube_ii
 name: Nanlite PavoTube II 15C / 30C
@@ -1931,7 +1908,6 @@ sections:
       **The fixture is flickering**
       - Check whether the surrounding area is too hot.
       - Make sure the fixture is not unintentionally left in **EFFECT** mode.
-
 ---
 id: tripod_manfrotto_befree
 name: Manfrotto Befree
@@ -2002,7 +1978,6 @@ related:
   - cam_sony_a73
   - cam_sony_fx3
   - tripod_sachtler_flow75
-
 ---
 id: tripod_sachtler_flow75
 name: Sachtler Flowtech 75
