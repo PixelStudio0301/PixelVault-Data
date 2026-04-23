@@ -2085,3 +2085,16 @@ sections:
 related: []
 quantity: 1
 storage: C
+---
+id: chagee_tea
+name: Chagee Tea
+category: Drink
+brand: Chagee
+coverImages:
+  - images/equipment/chagee_tea_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: In my belly
+no_guide: true
