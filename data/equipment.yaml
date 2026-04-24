@@ -2067,25 +2067,6 @@ quantity: 1
 storage: t
 no_guide: true
 ---
-id: abc_milk_tea
-name: ABC Milk Tea
-brand: ABC
-category: ABC
-coverImages:
-  - images/equipment/abc_milk_tea_cover_1.webp
-  - images/equipment/abc_milk_tea_cover_2.webp
-description: ""
-sections:
-  - title: A
-    images:
-      - images/equipment/abc_milk_tea_section1_1.webp
-      - images/equipment/abc_milk_tea_section1_2.webp
-    body: |
-      B
-related: []
-quantity: 1
-storage: C
----
 id: chagee_tea
 name: Chagee Tea
 category: Drink
