@@ -2056,26 +2056,17 @@ related:
 ---
 id: test_1
 name: test 1
-category: Test
 brand: Test
+category: Test
 coverImages:
   - images/equipment/test_1_cover_1.webp
 description: ""
-sections: []
+sections:
+  - title: i like teaaaa
+    images:
+      - images/equipment/test_1_section1_1.webp
+    body: |
+      yopee kyay
 related: []
 quantity: 1
 storage: t
-no_guide: true
----
-id: chagee_tea
-name: Chagee Tea
-category: Drink
-brand: Chagee
-coverImages:
-  - images/equipment/chagee_tea_cover_1.webp
-description: ""
-sections: []
-related: []
-quantity: 1
-storage: In my belly
-no_guide: true
