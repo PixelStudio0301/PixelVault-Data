@@ -2064,7 +2064,6 @@ description: ""
 sections:
   - title: t
     images:
-      - images/equipment/test_1_section1_1.webp
       - images/equipment/test_1_section1_2.webp
     body: |
       t
