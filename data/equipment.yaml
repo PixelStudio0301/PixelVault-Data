@@ -2054,19 +2054,18 @@ related:
   - cam_sony_a73
   - tripod_manfrotto_befree
 ---
-id: test_1
-name: test 1
+id: test_2
+name: test 2
 brand: Test
 category: Test
 coverImages:
-  - images/equipment/test_1_cover_1.webp
+  - images/equipment/test_2_cover_1.webp
 description: ""
 sections:
-  - title: i like teaaaa
-    images:
-      - images/equipment/test_1_section1_1.webp
+  - title: t
+    images: []
     body: |
-      yopee kyay
+      t
 related: []
 quantity: 1
 storage: t
