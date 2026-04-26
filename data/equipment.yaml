@@ -2053,3 +2053,20 @@ related:
   - cam_sony_fx3
   - cam_sony_a73
   - tripod_manfrotto_befree
+---
+id: abc
+name: abc
+brand: Wef
+category: Fwe
+coverImages:
+  - images/equipment/abc_cover_1.webp
+description: ""
+sections:
+  - title: wefwf
+    images:
+      - images/equipment/abc_section1_1.webp
+    body: |
+      wefewf
+related: []
+quantity: 1
+storage: grw
