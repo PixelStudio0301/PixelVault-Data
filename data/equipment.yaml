@@ -2070,3 +2070,20 @@ sections:
 related: []
 quantity: 1
 storage: grw
+---
+id: aaa
+name: aaa
+brand: Aaa
+category: Aaa
+coverImages:
+  - images/equipment/aaa_cover_1.webp
+description: ""
+sections:
+  - title: a
+    images:
+      - images/equipment/aaa_cover_1.webp
+    body: |
+      a
+related: []
+quantity: 1
+storage: a
