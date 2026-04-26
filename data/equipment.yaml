@@ -2080,8 +2080,7 @@ coverImages:
 description: ""
 sections:
   - title: a
-    images:
-      - images/equipment/aaa_cover_1.webp
+    images: []
     body: |
       a
 related: []
