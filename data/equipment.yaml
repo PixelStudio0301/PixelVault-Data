@@ -2338,3 +2338,42 @@ related: []
 quantity: 1
 storage: A
 no_guide: true
+---
+id: viltrox_dcx2_touchscreen_monitor
+name: Viltrox DC-X2 Touchscreen Monitor
+category: Monitor
+brand: Viltrox
+coverImages:
+  - images/equipment/viltrox_dcx2_touchscreen_monitor_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: kramer_cpaoch60_hdmi_cable_20m
+name: Kramer CP-AOCH/60 HDMI Cable (20m)
+category: Cable
+brand: Kramer
+coverImages:
+  - images/equipment/kramer_cpaoch60_hdmi_cable_20m_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: kramer_cpaoch60_hdmi_cable_50m
+name: Kramer CP-AOCH/60 HDMI Cable (50m)
+category: Cable
+brand: Kramer
+coverImages:
+  - images/equipment/kramer_cpaoch60_hdmi_cable_50m_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
