@@ -1912,7 +1912,7 @@ sections:
 id: tripod_manfrotto_befree
 name: Manfrotto Befree
 brand: Manfrotto
-category: Tripod
+category: Tripod (Camera)
 quantity: 1
 storage: Cabinet 4
 
@@ -1982,7 +1982,7 @@ related:
 id: tripod_sachtler_flow75
 name: Sachtler Flowtech 75
 brand: Sachtler
-category: Tripod
+category: Tripod (Camera)
 quantity: 4
 storage: "Tripod Shelf"
 
@@ -2216,6 +2216,122 @@ category: Audio
 brand: Zoom
 coverImages:
   - images/equipment/zoom_f8n_pro_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: moma_jiying7_monitor
+name: Moma JiYing7 Monitor
+category: Monitor
+brand: Moma
+coverImages:
+  - images/equipment/moma_jiying7_monitor_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+no_guide: true
+---
+id: dynacore_dvh6cs_npf970_battery
+name: Dynacore DV-H6CS NP-F970 Battery
+category: Battery
+brand: Dynacore
+coverImages:
+  - images/equipment/dynacore_dvh6cs_npf970_battery_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: viltrox_lseries_npf550_battery
+name: Viltrox L-Series NP-F550 Battery
+category: Battery
+brand: Viltrox
+coverImages:
+  - images/equipment/viltrox_lseries_npf550_battery_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: canon_bpa30_battery
+name: Canon BP-A30 Battery
+category: Battery
+brand: Canon
+coverImages:
+  - images/equipment/canon_bpa30_battery_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: sony_npf970_lseries_battery
+name: Sony NP-F970 L-Series Battery
+category: Battery
+brand: Sony
+coverImages:
+  - images/equipment/sony_npf970_lseries_battery_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: sony_acvq1051d_battery_charger
+name: Sony AC-VQ1051D Battery Charger
+category: Battery
+brand: Sony
+coverImages:
+  - images/equipment/sony_acvq1051d_battery_charger_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: sony_bcqz1_battery_charger
+name: Sony BC-QZ1 Battery Charger
+category: Battery
+brand: Sony
+coverImages:
+  - images/equipment/sony_bcqz1_battery_charger_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: sennheiser_l70_battery_charger
+name: Sennheiser L70 Battery Charger
+category: Battery
+brand: Sennheiser
+coverImages:
+  - images/equipment/sennheiser_l70_battery_charger_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
+---
+id: sony_zseries_npfz100_battery
+name: Sony Z-series NP-FZ100 Battery
+category: Battery
+brand: Sony
+coverImages:
+  - images/equipment/sony_zseries_npfz100_battery_cover_1.webp
 description: ""
 sections: []
 related: []
