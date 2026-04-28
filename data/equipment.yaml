@@ -3,7 +3,7 @@ name: Rode Wireless GO
 brand: Rode
 category: Audio
 quantity: 4
-storage: "7"
+storage: Cabinet 7
 
 # cover images for the carousel
 coverImages:
@@ -65,7 +65,7 @@ name: Sennheiser EW 500 G4 Wireless
 brand: Sennheiser
 category: Audio
 quantity: 5
-storage: "7"
+storage: Cabinet 7
 
 # cover images for the carousel
 coverImages:
@@ -137,7 +137,7 @@ name: Zoom F8
 brand: Zoom
 category: Audio
 quantity: 1
-storage: "7"
+storage: Cabinet 7
 
 # cover images for the carousel
 coverImages:
@@ -221,7 +221,7 @@ name: Zoom PodTrak P4
 brand: Zoom
 category: Audio
 quantity: 1
-storage: "7"
+storage: Cabinet 7
 
 # cover images for the carousel
 coverImages:
@@ -305,7 +305,7 @@ name: Canon LEGRIA HF G70
 brand: Canon
 category: Camera
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 # cover images for the carousel
 coverImages:
@@ -463,7 +463,7 @@ name: Canon XF605
 brand: Canon
 category: Camera
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 # cover images for the carousel
 coverImages:
@@ -614,7 +614,7 @@ name: DJI Osmo Pocket 3
 brand: DJI
 category: Camera
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 # cover images for the carousel
 coverImages:
@@ -688,7 +688,7 @@ name: Sony A7 III
 brand: Sony
 category: Camera
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 # cover images for the carousel
 coverImages:
@@ -778,7 +778,7 @@ name: Sony FX3
 brand: Sony
 category: Camera
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 # cover images for the carousel
 coverImages:
@@ -848,7 +848,7 @@ name: Canon EF 14mm f/2.8L II USM
 brand: Canon
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_canon_14mm_f2.8_cover.avif
@@ -883,7 +883,7 @@ name: Canon 24-70mm Ultrasonic
 brand: Canon
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_canon_24-70mm_cover.avif
@@ -918,7 +918,7 @@ name: Canon CN-E 24mm T1.5 L F
 brand: Canon
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_canon_24mm_t1.5_cover.avif
@@ -953,7 +953,7 @@ name: Canon EF 35mm f/1.4L USM
 brand: Canon
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_canon_35mm_f1.4_cover.avif
@@ -988,7 +988,7 @@ name: Canon EF 70-200mm f/2.8L IS II USM
 brand: Canon
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_canon_70-200mm_f2.8_cover.avif
@@ -1023,7 +1023,7 @@ name: Sony FE 4 / 12-24 G
 brand: Sony
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_sony_12-24mm_f4_cover.avif
@@ -1060,7 +1060,7 @@ name: Sony FE 4 / 16-35
 brand: Sony
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_sony_16-35mm_f4_cover.avif
@@ -1095,7 +1095,7 @@ name: Sony FE 2.8 / 24-70 GM II
 brand: Sony
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_sony_24-70mm_f2.8_cover.avif
@@ -1132,7 +1132,7 @@ name: Sony FE 1.4 / 50
 brand: Sony
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_sony_50mm_f1.4_cover.avif
@@ -1167,7 +1167,7 @@ name: Sony FE 2.8 / 70-200 GM OSS II
 brand: Sony
 category: Lens
 quantity: 1
-storage: "A"
+storage: Cabinet A
 
 coverImages:
   - images/equipment/lens_sony_70-200mm_f2.8_cover.avif
@@ -1330,7 +1330,7 @@ name: Dedolight Felloni Tecpro TP-LONI-D50HO
 brand: Dedolight
 category: Light
 quantity: 2
-storage: "3"
+storage: Cabinet 3
 
 coverImages:
   - images/equipment/light_felloni_tecpro_d50ho_cover.avif
@@ -1435,7 +1435,7 @@ name: Godox ML60 II Bi
 brand: Godox
 category: Light
 quantity: 2
-storage: "4"
+storage: Cabinet 4
 
 coverImages:
   - images/equipment/light_godox_ml60_cover.avif
@@ -1598,7 +1598,7 @@ name: Manfrotto CROMA2 LED Light
 brand: Manfrotto
 category: Light
 quantity: 2
-storage: "4"
+storage: Cabinet 4
 
 coverImages:
   - images/equipment/light_manfrotto_croma2_cover.avif
@@ -1914,7 +1914,7 @@ name: Manfrotto Befree
 brand: Manfrotto
 category: Tripod
 quantity: 1
-storage: "4"
+storage: Cabinet 4
 
 # cover images for the carousel
 coverImages:
