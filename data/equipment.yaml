@@ -2053,3 +2053,16 @@ related:
   - cam_sony_fx3
   - cam_sony_a73
   - tripod_manfrotto_befree
+---
+id: sandisk_extreme_pro_microsd_uhsii_64gb
+name: SanDisk Extreme Pro MicroSD UHS-II 64GB
+category: Memory
+brand: SanDisk
+coverImages:
+  - images/equipment/sandisk_extreme_pro_microsd_uhsii_64gb_cover_1.webp
+description: ""
+sections: []
+related: []
+quantity: 1
+storage: A
+no_guide: true
