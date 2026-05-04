@@ -200,7 +200,6 @@ sections:
       • **For monitoring and playback:**  
         - Use **headphone outputs** (3.5mm or 1/4 inch) for headphones.  
         - Use **line outputs** (RCA, 1/4 inch, XLR) for speakers or other recording devices.
-
 ---
 id: exposure_triangle
 name: Exposure Triangle
@@ -354,7 +353,6 @@ sections:
       • Lower the ISO if possible.  
       • Add more light to the scene if you can (for example, by moving closer to a window or switching on a lamp).  
       • If you must raise ISO, try not to push it higher than needed for a usable brightness.
-
 ---
 id: framing
 name: Framing
@@ -512,7 +510,6 @@ sections:
     images: []
     body: |
       Check out [Framing 101](https://youtu.be/tNg_DAGVEvQ) on PixelStudio's YouTube channel!
-
 ---
 id: histogram
 name: Histogram
@@ -570,7 +567,6 @@ sections:
       *Low contrast scenes (mostly midtones):* An example is a cloudy day with soft, even light. The histogram may form a **gentle hump in the middle** with little at the extremes. This is usually easy to expose. Just make sure it does not accidentally lean too far left (too dark) or too far right (too bright).
 
       Remember that the histogram is a **tool**, not a strict rule. Use it together with your eyes, your monitor, and other aids (like zebras) to judge exposure more accurately.
-
 ---
 id: shot_sizes_angles
 name: Shot Sizes and Angles
@@ -672,7 +668,6 @@ sections:
     images: []
     body: |
       Check out [Framing 101](https://youtu.be/tNg_DAGVEvQ) on PixelStudio's YouTube channel!
-
 ---
 id: types_of_lenses
 name: Types of Lenses
@@ -798,7 +793,6 @@ sections:
       *Stage, sports, or distant subjects:* Telephoto (e.g. **70-200mm**).
 
       *Low light with strong subject separation:* Wide-aperture primes (e.g. **f/1.4** lenses) when you can control focus and distance.
-
 ---
 id: video_codecs
 name: Video Codecs
@@ -888,7 +882,6 @@ sections:
       Use **H.264** in an **.mp4** file. Use the same resolution and frame rate you edited in (for example, 1920x1080 at 25 fps). Start with a medium-to-high bitrate (for example, around *10-20 Mbps* for 1080p) and adjust if files are too big or quality is too low.
 
       Remember that the **“best” codec** depends on what you are doing. For recording and quick sharing, smaller files with **H.264** or **H.265** are common. For serious editing and color work, larger files with editing-friendly codecs like **ProRes** are often preferred.
-
 ---
 id: white_balance
 name: White Balance
@@ -960,7 +953,6 @@ sections:
       *Think about your final look:* You can intentionally warm up or cool down your white balance to create a mood, as long as skin tones remain believable. A slightly **warmer** balance can make scenes feel cozy or friendly. A slightly **cooler** balance can make scenes feel distant, clinical, or tense.
 
       The main goal is to make white balance a **deliberate choice** instead of something left entirely to chance.
-
 ---
 id: zebra_stripes
 name: Zebra Patterning (Zebra Stripes)
@@ -1017,3 +1009,13 @@ sections:
       *Remember that zebras do not record:* Stripes are only a **visual guide** on your display; they never appear in the final video file. You can safely use them as much as you like without affecting your footage.
 
       By building the habit of glancing at your zebra stripes while adjusting exposure, you reduce the chances of coming back from a shoot with faces or key details accidentally overexposed.
+---
+id: test
+name: Test
+coverImages:
+  - images/videography/test_cover_1.webp
+sections:
+  - title: Test
+    images: []
+    body: |
+      **Test**
