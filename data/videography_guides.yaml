@@ -1009,13 +1009,3 @@ sections:
       *Remember that zebras do not record:* Stripes are only a **visual guide** on your display; they never appear in the final video file. You can safely use them as much as you like without affecting your footage.
 
       By building the habit of glancing at your zebra stripes while adjusting exposure, you reduce the chances of coming back from a shoot with faces or key details accidentally overexposed.
----
-id: test
-name: Test
-coverImages:
-  - images/videography/test_cover_1.webp
-sections:
-  - title: Test
-    images: []
-    body: |
-      **Test**
