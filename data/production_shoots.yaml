@@ -4,10 +4,10 @@
     q: 1
     n: "wrench"
   lens_canon_14mm_f2.8:
-    c: false
+    c: true
     q: 1
   lens_canon_24mm_t1.5:
-    c: false
+    c: true
     q: 1
   lens_canon_35mm_f1.4:
     c: false
